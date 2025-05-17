@@ -1,0 +1,109 @@
+Table endereco{
+  id_endereco integer [primary key]
+  cidade varchar(40)
+  uf char(2)
+  rua varchar(50)
+  bairro varchar(30)
+}
+
+
+Table medicos {
+  id_medico integer [primary key]
+  nome varchar(40)
+  sobrenome varchar(30)
+  especialidade varchar(30)
+  crm varchar(11)
+  data_admissao date
+  status varchar(20)
+  salario decimal(10,2)
+  id_endereco integer
+}
+
+Ref: medicos.id_endereco > endereco.id_endereco
+
+
+Table pacientes {
+  id_paciente integer [primary key]
+  nome varchar(40)
+  sobrenome vachar(40)
+  cpf varchar(11)
+  data_nasc date
+  sexo char(1)
+  telefone varchar(12)
+  email varchar(50)
+  data_cadastro date
+  id_endereco integer
+}
+
+Ref: pacientes.id_endereco > endereco.id_endereco
+
+
+Table consultas {
+  id_consulta integer [primary key]
+  id_paciente integer 
+  id_medico integer
+  data_consulta date
+  valor decimal
+  status varchar(16)
+  tipo_pagamento varchar(16)
+}
+
+Ref: consultas.id_paciente > pacientes.id_paciente
+Ref: consultas.id_medico > medicos.id_medico
+
+Table gastos {
+  id_gasto integer [primary key]
+  descricao varchar(40)
+  valor decimal(10,2)
+  data date
+  id_categoria integer 
+}
+
+Table categoria_gastos{
+  id_categoria integer [primary key]
+  nome_categoria varchar(30)
+}
+
+Ref: gastos.id_categoria > categoria_gastos.id_categoria
+
+Table satisfacao_clientes {
+  id_avaliacao integer  [primary key]
+  id_consulta integer
+  nota integer 
+  comentario text
+  data_avaliacao date
+}
+
+
+Table funcionarios{
+  id_funcionario integer  [primary key]
+  nome varchar(30)
+  sobrenome varchar(30) 
+  cargo varchar(30)
+  salario decimal(10,2)
+  data_admissao date
+  status varchar(20)
+}
+
+Table satisfacao_funcionarios{
+  id_avaliacao integer [primary key]
+  id_funcionario integer 
+  nota integer 
+  comentario text 
+  data_avaliacao data
+}
+
+Ref: satisfacao_funcionarios.id_funcionario > funcionarios.id_funcionario
+
+Table prescricoes{
+  id_prescricao integer [primary key]
+  id_consulta integer
+  medicamento varchar(30)
+  dosagem varchar(20)
+  frequencia varchar(20)
+  duracao_dias int
+}
+
+
+
+
