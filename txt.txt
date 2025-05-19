@@ -104,6 +104,9 @@ Table prescricoes{
   duracao_dias int
 }
 
+Ref: satisfacao_clientes.id_consulta > consultas.id_consulta
+
+Ref: prescricoes.id_consulta > consultas.id_consulta
 
 
 
