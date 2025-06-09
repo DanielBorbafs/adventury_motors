@@ -22,5 +22,7 @@ Esse pequeno projeto tem como objetivo extrair insights sobre uma análise compa
 - VSCode / Google Colab
 
 ---
-![Logo do GitHub](https://github.com/DanielBorbafs/DataMarket/blob/main/outputs/vendas_comparativo_2024.png)
+![Vendas 2024](https://github.com/DanielBorbafs/DataMarket/blob/main/outputs/vendas_comparativo_2024.png)
+![Médias 2024](https://github.com/DanielBorbafs/DataMarket/blob/main/outputs/media_qtd_vendas_2024.png)
+![Desvio Padrão 2024](https://github.com/DanielBorbafs/DataMarket/blob/main/outputs/desvio_padrao_2024.png)
 
