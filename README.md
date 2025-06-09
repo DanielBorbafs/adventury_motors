@@ -22,4 +22,4 @@ Esse pequeno projeto tem como objetivo extrair insights sobre uma análise compa
 - VSCode / Google Colab
 
 ---
-![Vendas de 2023] (https://github.com/DanielBorbafs/DataMarket/blob/main/outputs/vendas_comparativo_2024.png)
+![Vendas de 2023] (outputs/vendas_comparativo_2024.png)
