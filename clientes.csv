@@ -1,0 +1,1001 @@
+id,nome,sexo,data_nascimento,uf,email,telefone,faixa_renda,tipo_carro,forma_pagamento
+1,Liam,M,02/12/1984,MG,alopes@example.org,+55 (46) 95297-5940,43668.15,Hatch,Cartão de Débito
+2,Eduardo,M,09/09/1959,RJ,maria-julia42@example.com,+55 (57) 94941 5826,39924.16,Híbrido,Cartão de Débito
+3,Catarina,F,21/08/1988,RS,tpastor@example.org,+55 64 9 9422-4015,45130.75,Utilitário,Cartão de Débito
+4,Rhavi,M,25/10/1974,PE,nicolepastor@example.com,+55 (10) 94399 3348,17686.66,Van,Cartão de Débito
+5,Alexandre,M,24/10/1947,AC,jporto@example.com,+55 (72) 9 9724 2650,56620.77,SUV,Dinheiro
+6,Hellena,F,09/12/1989,SP,monteiromarcela@example.net,+55 (081) 98002-5543,59373.51,Minivan,Pix
+7,Dom,M,16/10/1966,AL,rodriguescalebe@example.org,+55 (36) 90724 5034,21516.33,Híbrido,Leasing
+8,Diogo,M,10/05/1958,MS,fonsecavalentim@example.net,+55 (000) 96022-9731,37074.68,Crossover,Cartão de Crédito
+9,Gabriel,M,06/04/1997,ES,cgarcia@example.com,+55 89 94027-6236,51563.77,Híbrido,Dinheiro
+10,Lorena,F,06/08/1986,RS,luiz-otavio74@example.com,+55 69 97659-8008,32793.45,Conversível,Cartão de Crédito
+11,Sophia,F,01/12/1984,RS,albuquerquejosue@example.com,+55 59 9 4172-9672,23537.55,Conversível,Cartão de Débito
+12,Alice,F,02/02/1985,RS,mendesvitor-hugo@example.com,+55 (30) 94499 3384,9137.17,Van,Financiamento
+13,Ana Júlia,F,19/12/1998,PA,oda-paz@example.com,+55 (027) 93761 3938,20070.41,Elétrico,Financiamento
+14,Levi,M,17/10/1982,PE,henry-gabrielmontenegro@example.com,+55 (001) 95380-5052,14169.59,Crossover,Carteira Digital
+15,Ana Lívia,F,16/11/1980,MA,ppacheco@example.com,+55 (06) 9 2936 3988,32997.05,Picape,Boleto Bancário
+16,Eduardo,M,02/11/1967,RN,manuella85@example.com,+55 10 98459 6392,50966.94,Luxo,Transferência Bancária
+17,Luan,M,10/05/1974,RS,arthur-miguelvargas@example.net,+55 97 9 1079 9841,52622.02,Sedan,Carteira Digital
+18,Maya,F,13/06/2003,TO,theo03@example.com,+55 (048) 96920 4349,32934.79,Médio,Pix
+19,Milena,F,13/08/1973,PA,rhavinunes@example.org,+55 80 99814-7700,39772.58,Luxo,Leasing
+20,Enzo Gabriel,M,27/12/1990,PB,sda-cruz@example.com,+55 60 9 0688-9965,48693.75,Híbrido,Cartão de Débito
+21,Clarice,F,01/09/1971,SP,biancagoncalves@example.org,+55 (017) 91444-9859,11640.26,Híbrido,Cartão de Débito
+22,Ana Lívia,F,23/08/1960,AL,vda-costa@example.org,+55 62 9 8742-1417,9316.08,Elétrico,Dinheiro
+23,Isabella,F,08/10/1967,DF,emanuella70@example.net,+55 (18) 9 4598 7519,24967.47,Hatch,Leasing
+24,Benicio,M,18/11/2002,GO,lunna50@example.com,+55 (33) 9 6736 1555,12630.54,Coupé,Cartão de Débito
+25,Gabriela,F,03/12/1991,SE,davi-lucasmoreira@example.net,+55 (002) 91609-7679,20879.38,Minivan,Carteira Digital
+26,Giovanna,F,28/01/1972,MT,enzo45@example.org,+55 80 9 7080 7318,30381.93,Utilitário,Leasing
+27,Yasmin,F,19/05/1973,RR,maria-lizfonseca@example.com,+55 (062) 98509 8351,24852.75,Van,Financiamento
+28,Ísis,F,23/09/1980,ES,pedro-miguelda-mata@example.net,+55 43 99343-0067,54070.15,Conversível,Financiamento
+29,Nathan,M,08/10/1978,PA,martinsliz@example.org,+55 00 96508-2733,43961.74,Utilitário,Dinheiro
+30,José,M,10/01/1981,CE,maria-fernandabrito@example.net,+55 (05) 9 0500 4091,10757.19,Conversível,Financiamento
+31,Ana Julia,F,26/11/1957,PA,afogaca@example.com,+55 (80) 9 3573-9053,22270.44,Utilitário,Carteira Digital
+32,Nicolas,M,13/10/1951,AC,valentinapinto@example.org,+55 (80) 9 4424-0863,31007.35,Coupé,Carteira Digital
+33,Benjamim,M,18/05/1973,DF,caleb91@example.com,+55 (81) 92505 4422,47085.52,Van,Pix
+34,Agatha,F,07/03/1988,PE,da-costaleandro@example.net,+55 (034) 98947 3712,12163.11,Picape,Boleto Bancário
+35,Oliver,M,20/11/1991,MG,eduarda37@example.org,+55 70 9 5629 5891,43878.99,Off-road,Cartão de Crédito
+36,Zoe,F,13/08/2006,CE,vitoriaazevedo@example.com,+55 (030) 94340-8171,22583.64,Coupé,Boleto Bancário
+37,Isaac,M,13/06/2002,CE,alexiacunha@example.net,+55 17 91540-4408,28720.87,SUV,Leasing
+38,Letícia,F,14/02/1963,GO,maya83@example.org,+55 (37) 99563-0807,13006.7,Van,Boleto Bancário
+39,Olívia,F,08/02/1991,PB,luiz-otaviolima@example.com,+55 (046) 98081 7190,8388.22,Elétrico,Boleto Bancário
+40,Lucas Gabriel,M,09/08/1986,RR,xsousa@example.net,+55 (064) 93842 5471,21832.25,Compacto,Boleto Bancário
+41,Antonella,F,22/10/2003,RR,diogo14@example.net,+55 24 93393 4090,30113.67,Off-road,Leasing
+42,Yago,M,05/05/1999,RN,juliacamargo@example.com,+55 (096) 90293-7887,29564.02,SUV,Cartão de Crédito
+43,Breno,M,31/03/1947,AP,xcarvalho@example.net,+55 91 9 0446-4934,22698.69,Minivan,Transferência Bancária
+44,Diego,M,17/04/1951,BA,ipires@example.net,+55 60 99600-1773,53663.27,Compacto,Pix
+45,Rodrigo,M,30/01/1997,SC,bella34@example.com,+55 (72) 98746 7689,44900.36,Conversível,Carteira Digital
+46,Luiz Miguel,M,07/08/1960,RJ,almeidaalice@example.net,+55 (012) 95422 2947,35762.34,Hatch,Financiamento
+47,Aurora,F,21/06/1971,RO,nuneskaique@example.com,+55 52 9 8960 9723,59703.32,Híbrido,Boleto Bancário
+48,Stephany,F,30/05/1949,MT,albuquerqueana-clara@example.com,+55 93 95654 4474,32869.03,Crossover,Leasing
+49,Dom,M,25/06/1977,RS,vinicius27@example.com,+55 (33) 92532-8792,46351.84,Compacto,Pix
+50,Vicente,M,20/10/1976,DF,gda-mata@example.com,+55 55 92106 6929,35590.49,Off-road,Cartão de Débito
+51,Mateus,M,29/04/1956,AC,lais97@example.org,+55 (62) 9 7225 3894,34868.95,Esportivo,Cartão de Débito
+52,Benício,M,22/08/1975,AL,dnascimento@example.com,+55 75 9 6801-0092,57741.22,Sedan,Carteira Digital
+53,Gabriel,M,01/07/1989,PB,heitorpastor@example.com,+55 (096) 99897 4687,14115.71,Hatch,Carteira Digital
+54,Maria Júlia,F,25/04/1987,GO,luiz-henrique14@example.com,+55 71 93737-2183,18695.04,Esportivo,Cartão de Crédito
+55,Liz,F,14/08/1994,ES,duartevitor-gabriel@example.org,+55 19 9 7217-1849,52641.97,Utilitário,Dinheiro
+56,Yan,M,24/02/1947,RS,cassianoolivia@example.org,+55 (68) 9 5411 8630,24210.76,Luxo,Carteira Digital
+57,Vitória,F,13/11/1973,SC,ferreirabella@example.net,+55 (98) 9 7902-1416,10875.64,Esportivo,Transferência Bancária
+58,Maria Alice,F,13/06/1945,MA,gabrielrodrigues@example.com,+55 (43) 90122-9310,38486.03,Hatch,Transferência Bancária
+59,Luiz Henrique,M,11/08/1991,DF,larissa81@example.org,+55 (49) 93363-1308,55248.95,Coupé,Leasing
+60,Natália,F,09/05/1996,PA,das-nevesana-luiza@example.com,+55 (07) 9 8624-1796,43413.77,Utilitário,Boleto Bancário
+61,Davi Lucca,M,23/01/1957,AC,cnovais@example.com,+55 (041) 92593 6205,23211.79,Crossover,Cartão de Débito
+62,Lavínia,F,17/11/1962,RN,lsouza@example.org,+55 96 9 3133 6550,31363.29,Picape,Carteira Digital
+63,Miguel,M,13/12/1961,DF,calbuquerque@example.org,+55 (85) 9 6130 4500,56776.42,Esportivo,Boleto Bancário
+64,Luiz Felipe,M,27/08/1978,MA,pastorluigi@example.com,+55 (79) 9 5454-2253,53960.76,Minivan,Cartão de Crédito
+65,Leonardo,M,27/01/1964,PR,ramosmaria-fernanda@example.org,+55 (36) 9 2392 6038,25422.37,Hatch,Cartão de Crédito
+66,Leandro,M,07/10/2002,CE,barbosadom@example.net,+55 43 9 7241-1537,49791.7,SUV,Cartão de Débito
+67,Sophia,F,17/03/1986,RS,ana-livia28@example.com,+55 (64) 9 0810 2074,17792.59,Van,Dinheiro
+68,Mathias,M,25/09/1948,RO,lorenapereira@example.net,+55 (16) 9 5405 4408,21573.1,Híbrido,Cartão de Crédito
+69,Brenda,F,12/02/1947,RS,rebeca85@example.com,+55 (027) 99844 8408,48647.63,Picape,Dinheiro
+70,Alana,F,25/02/1965,GO,raulcastro@example.com,+55 (002) 94088 3874,32180.57,SUV,Pix
+71,Stephany,F,29/05/1996,AM,laura71@example.net,+55 17 91555-5125,48556.43,SUV,Cartão de Débito
+72,Vitória,F,16/06/1973,SP,caleb57@example.org,+55 93 9 0693 1739,43490.16,Médio,Boleto Bancário
+73,Isaac,M,10/01/2007,BA,silveirabruno@example.com,+55 89 91090 4292,55210.21,Crossover,Cartão de Crédito
+74,João Guilherme,M,27/05/1967,MT,tsilveira@example.net,+55 (44) 9 3459 2183,25541.65,Conversível,Cartão de Débito
+75,Olívia,F,26/12/1980,RS,leandrosiqueira@example.net,+55 55 9 4941-3068,57965.65,Van,Cartão de Crédito
+76,Gael Henrique,M,13/08/1950,SC,diasbeatriz@example.org,+55 32 93562-5869,36009.48,Coupé,Carteira Digital
+77,Francisco,M,12/05/1956,GO,goncalveseloah@example.net,+55 (91) 9 0937 2692,22924.6,Picape,Pix
+78,Amanda,F,09/05/1970,TO,joao-lucascasa-grande@example.com,+55 82 96120 8359,53266.88,SUV,Leasing
+79,Rafael,M,05/10/1955,AP,joao-felipealmeida@example.com,+55 57 93397 8661,19129.89,Crossover,Leasing
+80,Erick,M,14/09/1962,ES,wnascimento@example.net,+55 (53) 9 2705 3042,35658.91,Conversível,Transferência Bancária
+81,Henry,M,02/04/2003,TO,julia76@example.com,+55 (074) 94486 0233,26527.37,SUV,Cartão de Crédito
+82,Gustavo Henrique,M,10/01/1960,CE,zcaldeira@example.org,+55 (012) 96229-8396,7308.45,Picape,Boleto Bancário
+83,Marcela,F,19/11/1969,AC,diegonascimento@example.org,+55 29 94199 3374,57384.16,Esportivo,Carteira Digital
+84,Lunna,F,12/02/1959,MG,hda-cruz@example.com,+55 (062) 98562-4635,41020.98,Crossover,Cartão de Crédito
+85,Bárbara,F,23/11/1976,PI,theodoro08@example.net,+55 07 90629 2435,5755.41,Elétrico,Financiamento
+86,Luiz Otávio,M,17/07/1965,AL,pimentastephany@example.net,+55 54 90474-0698,57490.33,Crossover,Dinheiro
+87,Isabela,F,04/05/1995,PI,barrosmatheus@example.org,+55 01 95260-4595,26152.96,Elétrico,Pix
+88,Guilherme,M,27/12/1995,RN,davi-luccacassiano@example.org,+55 50 98118 9785,42196.85,Luxo,Pix
+89,Caroline,F,10/02/1973,MT,mathias00@example.com,+55 51 9 3363 9483,51956.86,Hatch,Financiamento
+90,Manuella,F,18/09/1969,AL,joao-vitorribeiro@example.net,+55 (79) 9 9836-5655,59559.34,Compacto,Boleto Bancário
+91,Otto,M,09/03/1955,SP,esther02@example.net,+55 86 9 7380 5337,27597.67,Sedan,Pix
+92,Maria Helena,F,15/09/1969,RS,cda-mota@example.net,+55 (24) 9 1066 1401,28431.52,Minivan,Financiamento
+93,Renan,M,16/12/1997,RS,csampaio@example.net,+55 00 9 6322-3960,12961.87,Utilitário,Cartão de Crédito
+94,Augusto,M,16/11/1958,SP,cporto@example.com,+55 (44) 94251-7218,45203.48,Crossover,Leasing
+95,Diogo,M,22/06/2000,MS,jose-pedro44@example.org,+55 (09) 94681 5300,17994.9,SUV,Carteira Digital
+96,Aylla,F,05/06/1963,MT,brayanda-conceicao@example.net,+55 (42) 99407-3625,42938.22,Picape,Leasing
+97,Manuella,F,23/09/1948,PI,zmarques@example.org,+55 66 90663-8395,42491.63,Esportivo,Pix
+98,Luigi,M,20/06/2000,RR,alvesrafael@example.net,+55 (029) 90996-4509,45387.37,Sedan,Pix
+99,Ravy,M,17/11/1974,RO,moraesjuliana@example.com,+55 29 98584-9094,39271.22,SUV,Carteira Digital
+100,Isis,F,15/12/1995,ES,cardosopietro@example.org,+55 (65) 9 6307 5274,8457.58,Elétrico,Financiamento
+101,Francisco,M,01/01/1947,SP,lunarodrigues@example.net,+55 (082) 95556-2813,7784.56,Off-road,Transferência Bancária
+102,Sara,F,27/02/1948,BA,cirinoleticia@example.com,+55 13 94381 2399,20597.16,Coupé,Leasing
+103,Davi,M,18/08/1972,ES,liviasilva@example.com,+55 (030) 98169-4243,30214.51,SUV,Cartão de Crédito
+104,Arthur Gabriel,M,02/09/1976,SP,leticia83@example.net,+55 (041) 93771 3097,17829.93,Conversível,Financiamento
+105,Eloá,F,13/05/1960,MS,wsilveira@example.net,+55 (033) 96607-4784,7660.4,SUV,Leasing
+106,Maria Liz,F,22/11/1951,MT,sara93@example.com,+55 (04) 9 7219 5796,10753.96,Hatch,Financiamento
+107,Léo,M,20/11/1992,TO,borgescatarina@example.net,+55 (027) 98918 4420,6983.24,Crossover,Cartão de Crédito
+108,Eloá,F,29/01/1956,SP,oda-cunha@example.org,+55 10 93937 1563,7219.39,Esportivo,Cartão de Débito
+109,Brayan,M,01/09/1971,AL,costalucas-gabriel@example.org,+55 (70) 9 7065 7660,19997.17,Sedan,Transferência Bancária
+110,Ana Carolina,F,03/05/1975,PA,fvieira@example.net,+55 (93) 94387 8837,7161.51,Off-road,Carteira Digital
+111,Noah,M,23/12/1981,RN,vcunha@example.org,+55 83 9 3718-9243,52326.2,Coupé,Cartão de Crédito
+112,Gabriela,F,18/02/1989,RO,ngomes@example.org,+55 98 93974-6314,44977.28,Coupé,Transferência Bancária
+113,Hellena,F,28/03/1955,PR,vieirapedro-lucas@example.com,+55 (95) 9 0080-1657,23550.18,Conversível,Boleto Bancário
+114,Theo,M,08/07/1975,SE,da-rosajoaquim@example.org,+55 51 93603 8617,30593.98,Van,Boleto Bancário
+115,Mirella,F,27/04/1979,SC,oliviasousa@example.net,+55 (64) 9 9442 1172,6251.76,Crossover,Dinheiro
+116,Pedro Miguel,M,10/02/1982,PR,vitoria09@example.net,+55 (33) 91068-0857,19387.78,Off-road,Dinheiro
+117,Giovanna,F,26/10/1955,MG,lcunha@example.com,+55 (64) 9 4406-6188,21231.56,Off-road,Transferência Bancária
+118,Enzo Gabriel,M,28/02/1997,PA,jguerra@example.net,+55 95 9 3770 0326,24717.63,Picape,Pix
+119,Maria Liz,F,27/09/1987,MG,wviana@example.org,+55 63 9 1801-1456,31925.34,Conversível,Financiamento
+120,Henry,M,18/03/1952,TO,mendesclarice@example.net,+55 (13) 9 9002-6400,28534.1,Coupé,Dinheiro
+121,Maria Liz,F,17/10/1964,RJ,calebelopes@example.com,+55 (89) 94227 6879,39459.68,Esportivo,Leasing
+122,José,M,30/09/1995,RJ,ffernandes@example.org,+55 (80) 96817 9719,39801.66,Picape,Cartão de Débito
+123,Pietro,M,07/11/1988,SP,yasminsouza@example.net,+55 (020) 97934 3233,42467.07,Crossover,Transferência Bancária
+124,Thales,M,29/04/1977,BA,ioliveira@example.org,+55 30 9 7265 1728,29542.63,Luxo,Transferência Bancária
+125,Clara,F,14/04/1997,GO,cavalcantimarcela@example.com,+55 (000) 90960-8651,23914.67,Compacto,Boleto Bancário
+126,Rael,M,10/02/1959,MA,rgomes@example.com,+55 (89) 98235 8768,7722.27,Esportivo,Cartão de Débito
+127,Brayan,M,06/12/1980,AC,da-pazana-carolina@example.net,+55 (66) 91123 9508,11176.41,Picape,Boleto Bancário
+128,Maria Luísa,F,04/06/1948,GO,ufarias@example.net,+55 (02) 90668-4969,40737.18,Luxo,Financiamento
+129,Raul,M,15/05/2000,TO,sabrinasilva@example.net,+55 55 98776-9883,40135.08,Coupé,Transferência Bancária
+130,Augusto,M,30/10/1975,RN,fariasjulia@example.net,+55 37 91754 0306,45780.65,SUV,Dinheiro
+131,Pedro Lucas,M,18/07/2006,MS,diego14@example.net,+55 26 9 6624-6209,55633.67,Híbrido,Carteira Digital
+132,Ana Laura,F,18/04/1989,PB,agathavieira@example.com,+55 (03) 9 2514-0371,46702.32,Utilitário,Pix
+133,Diogo,M,22/08/1999,CE,ana-juliamendes@example.org,+55 51 9 5222 2851,19132.15,Compacto,Dinheiro
+134,Gustavo Henrique,M,23/09/1968,MG,thomas12@example.net,+55 (48) 98549 4643,10489.67,Médio,Dinheiro
+135,Pedro,M,29/03/1990,RS,julia75@example.net,+55 (068) 94887-2955,36279.2,Minivan,Transferência Bancária
+136,Fernanda,F,28/09/1992,AC,rodrigueszoe@example.com,+55 (80) 9 8017 7277,53663.92,SUV,Carteira Digital
+137,Stephany,F,15/02/1990,RJ,tmelo@example.org,+55 (041) 95762-6076,30180.07,Picape,Cartão de Débito
+138,Manuela,F,05/04/1984,RJ,pedro-lucas55@example.org,+55 (016) 95708-7207,21475.11,Compacto,Cartão de Crédito
+139,Luigi,M,19/10/1979,MS,maria-aliceda-luz@example.org,+55 (04) 91386-9800,11654.8,Híbrido,Cartão de Débito
+140,Melina,F,02/03/1989,CE,isabellyazevedo@example.net,+55 (86) 9 8405-1870,36064.27,Van,Boleto Bancário
+141,Luiz Fernando,M,17/11/1993,MA,ovieira@example.org,+55 (012) 96963 5788,34784.99,Esportivo,Leasing
+142,Davi Lucca,M,04/03/1995,GO,isabelasousa@example.net,+55 41 9 7922 2137,26101.12,Van,Cartão de Crédito
+143,Alana,F,13/08/1995,TO,isabelanunes@example.net,+55 04 9 5275-3167,37640.23,Minivan,Dinheiro
+144,Vitor,M,31/10/1954,AL,rodriguesenzo@example.net,+55 32 9 6806-9701,54243.14,Compacto,Transferência Bancária
+145,Ana Sophia,F,02/10/1963,RN,isis95@example.net,+55 91 9 8293-8328,33841.31,Coupé,Leasing
+146,José Pedro,M,25/02/1951,MG,igor22@example.org,+55 (53) 9 9927-5272,51455.59,Hatch,Financiamento
+147,Ana Clara,F,20/05/2004,MA,calebe09@example.org,+55 (72) 98500-9752,29691.03,Híbrido,Dinheiro
+148,Maria Luiza,F,12/04/1987,AM,rodriguesana-luiza@example.org,+55 (074) 90647 1197,22957.73,Conversível,Pix
+149,Ísis,F,28/08/2006,DF,caroline15@example.com,+55 (064) 90632-4678,48519.12,Elétrico,Dinheiro
+150,Sara,F,12/08/1945,AL,asampaio@example.org,+55 (019) 94557 5953,32968.9,Hatch,Boleto Bancário
+151,Marcela,F,15/12/1949,MS,costelarebeca@example.net,+55 (68) 9 7922 3854,8187.44,Van,Dinheiro
+152,Breno,M,21/06/1981,DF,souzayago@example.org,+55 49 92867 1563,51740.35,Minivan,Financiamento
+153,Francisco,M,05/08/2001,GO,wvieira@example.org,+55 (58) 98460-1325,6557.89,Coupé,Leasing
+154,Letícia,F,05/08/2003,GO,samuelcirino@example.org,+55 04 9 5212 6773,46900.38,Sedan,Financiamento
+155,Cecília,F,24/12/1979,RJ,snogueira@example.org,+55 (02) 9 4295 3594,29138.92,Conversível,Transferência Bancária
+156,João Felipe,M,18/01/1993,RN,leaorodrigo@example.org,+55 (05) 97091-5123,42512.71,Médio,Cartão de Débito
+157,Heloísa,F,14/02/1961,RS,felipe63@example.com,+55 39 9 3649 6098,37676.74,Coupé,Cartão de Crédito
+158,Benício,M,20/08/1984,RJ,emanuellaazevedo@example.net,+55 (21) 92611 2326,57616.86,Sedan,Cartão de Crédito
+159,Anthony,M,13/08/1977,CE,cbarbosa@example.org,+55 97 9 0121-8790,30772.94,Van,Carteira Digital
+160,Marcela,F,07/05/1955,AP,maria-helena56@example.org,+55 (11) 94545-7952,14974.63,Hatch,Pix
+161,Ana Vitória,F,29/12/1975,ES,lmoraes@example.com,+55 39 91836-2465,12762.83,Elétrico,Transferência Bancária
+162,Aylla,F,05/10/1991,PA,haparecida@example.net,+55 64 9 1153 3070,7271.51,Esportivo,Transferência Bancária
+163,Antônio,M,24/03/1963,CE,antonymacedo@example.net,+55 (031) 93291 1506,37119.09,Elétrico,Cartão de Débito
+164,Pietra,F,29/08/1988,AM,mouradaniel@example.com,+55 (31) 94006 6891,44295.23,Utilitário,Transferência Bancária
+165,Agatha,F,23/07/1953,PA,maria-julia14@example.net,+55 85 92057-6604,28532.09,Compacto,Cartão de Crédito
+166,Luiz Fernando,M,01/05/1980,AL,oliver51@example.com,+55 (38) 9 8039 2516,45416.45,Coupé,Leasing
+167,Gabriel,M,03/07/2001,RS,jcirino@example.net,+55 (94) 96694 8270,58477.61,Minivan,Boleto Bancário
+168,Ester,F,27/01/1972,AP,fcamargo@example.net,+55 60 9 8076-8131,14884.71,Conversível,Cartão de Débito
+169,Diego,M,13/07/1980,RJ,maria-florsiqueira@example.org,+55 68 9 1044 4074,29906.18,Coupé,Dinheiro
+170,Ana Luiza,F,16/02/1957,GO,nascimentovitoria@example.com,+55 (080) 98999 1141,22799.62,Off-road,Cartão de Crédito
+171,Eduarda,F,23/09/1962,DF,luiz-gustavosiqueira@example.org,+55 (083) 93768-1659,15601.74,Esportivo,Financiamento
+172,Luana,F,27/10/1973,SE,silveiramatteo@example.com,+55 30 9 7354-4566,39274.51,Hatch,Pix
+173,Aylla,F,01/01/1976,DF,da-conceicaomelina@example.org,+55 04 9 6394-2136,49546.18,Conversível,Cartão de Crédito
+174,Maria Flor,F,21/07/1978,AM,da-matajoao-lucas@example.org,+55 (079) 98147-4526,16222.87,Compacto,Leasing
+175,Joana,F,06/04/1954,AM,thomas90@example.net,+55 (86) 9 7544-7167,10636.43,Off-road,Pix
+176,Leonardo,M,27/11/1998,PE,melobenjamim@example.org,+55 56 98654 6678,33152.3,Sedan,Leasing
+177,Davi,M,03/03/1977,PR,vicente75@example.org,+55 51 9 2788-0061,18832.86,Médio,Transferência Bancária
+178,Sabrina,F,23/05/1982,RO,liviadias@example.org,+55 (059) 94871 9145,51430.07,Crossover,Cartão de Crédito
+179,Noah,M,05/10/1993,PE,riosaugusto@example.org,+55 (41) 9 8760 8385,24080.03,Híbrido,Financiamento
+180,Stephany,F,04/10/1947,TO,henry-gabrielaraujo@example.org,+55 76 9 1081-3971,40463.65,Elétrico,Carteira Digital
+181,Yago,M,30/07/1972,MA,ecardoso@example.org,+55 58 98205-8968,47840.9,SUV,Cartão de Crédito
+182,João Miguel,M,12/03/1946,MA,alexiacampos@example.org,+55 64 9 4367 2212,24136.3,Conversível,Cartão de Débito
+183,Maria Fernanda,F,30/06/1960,MT,limaluan@example.org,+55 37 98641-7010,38856.65,Luxo,Carteira Digital
+184,Maria Alice,F,06/07/1984,MT,pereiraandre@example.org,+55 (092) 94463 7240,38620.15,Off-road,Boleto Bancário
+185,Maria Sophia,F,03/06/1953,DF,joao-gabriel71@example.com,+55 05 90578 5145,18603.06,Minivan,Dinheiro
+186,José,M,16/03/1995,TO,joao-miguelcassiano@example.net,+55 (050) 90089 7909,8420.04,Esportivo,Carteira Digital
+187,Otávio,M,22/09/1946,RJ,montenegroheloisa@example.org,+55 12 9 9906 5011,10385.01,Hatch,Pix
+188,Isaac,M,22/07/1980,RS,qfreitas@example.com,+55 (69) 9 5264-9766,36094.34,SUV,Pix
+189,Stella,F,27/05/1977,MG,helena74@example.com,+55 (088) 97096-4831,32245.97,Minivan,Transferência Bancária
+190,Dom,M,12/02/1983,AP,vsales@example.net,+55 (09) 9 0455 4178,59611.98,Van,Financiamento
+191,Eloá,F,22/01/1983,MS,moreiraalexandre@example.com,+55 17 92548-1992,45493.51,Van,Financiamento
+192,Benicio,M,03/01/1953,AM,marcela34@example.net,+55 (90) 90663 9858,42832.28,Off-road,Financiamento
+193,Fernanda,F,28/11/1971,AC,beatrizoliveira@example.net,+55 (089) 96480-1604,57295.71,Hatch,Cartão de Crédito
+194,Hadassa,F,21/12/1968,GO,da-motaana-cecilia@example.org,+55 (40) 98690-7318,10358.71,Esportivo,Carteira Digital
+195,Guilherme,M,04/04/1993,RS,iduarte@example.com,+55 (76) 9 9628 6516,53052.9,Compacto,Boleto Bancário
+196,Melina,F,13/02/2001,RJ,gmendes@example.net,+55 (55) 9 8114-8182,15368.42,Compacto,Carteira Digital
+197,Bianca,F,25/02/1980,ES,joao-pedro79@example.org,+55 (71) 91091-4475,25427.45,Van,Cartão de Débito
+198,Mariana,F,13/03/1976,SP,igorlopes@example.net,+55 (41) 9 0671-9254,54852.53,Luxo,Boleto Bancário
+199,Giovanna,F,22/09/2006,BA,joao-guilherme95@example.net,+55 59 90489-6095,43023.62,Conversível,Carteira Digital
+200,Vinicius,M,03/12/1989,RR,olivia93@example.org,+55 (088) 92135 4823,47279.19,Crossover,Cartão de Crédito
+201,Esther,F,25/12/1999,RR,hrocha@example.com,+55 (18) 97651-6324,46713.07,Conversível,Boleto Bancário
+202,Matteo,M,21/04/1960,SE,ana-luiza44@example.com,+55 (38) 9 7400-8154,28865.67,Luxo,Pix
+203,Benício,M,14/05/1985,PB,castromarcos-vinicius@example.com,+55 (08) 91330-0277,39559.77,Híbrido,Pix
+204,Maria Alice,F,15/07/1960,RN,ocavalcanti@example.com,+55 (79) 9 4494-0203,57029.07,Crossover,Cartão de Crédito
+205,Gabrielly,F,11/09/1964,PA,lara95@example.net,+55 (098) 91908-9187,8885.44,Sedan,Cartão de Crédito
+206,Alana,F,20/05/1977,DF,ucardoso@example.com,+55 96 9 6782-5281,59635.99,Minivan,Financiamento
+207,Benicio,M,18/07/1982,MG,joao69@example.com,+55 (000) 90422-7428,39972.77,Crossover,Leasing
+208,Erick,M,23/06/2004,MA,pnovais@example.net,+55 38 92216-4891,59312.11,Médio,Dinheiro
+209,Lavínia,F,21/09/2001,GO,sampaiomaria-flor@example.net,+55 33 94919-7976,41221.77,Crossover,Transferência Bancária
+210,Mathias,M,20/06/1955,DF,ada-paz@example.com,+55 (093) 94218-4112,9360.71,Hatch,Dinheiro
+211,Henry,M,03/05/1955,RR,davi-miguel37@example.net,+55 (18) 9 5428 1223,32337.52,Esportivo,Cartão de Débito
+212,Kaique,M,15/12/2006,RJ,elisasiqueira@example.com,+55 89 9 2461-8131,57083.86,Luxo,Carteira Digital
+213,Benjamim,M,11/09/2006,RO,dante74@example.com,+55 (24) 94385 9952,22906.99,Hatch,Pix
+214,Rafael,M,13/01/2002,PR,agathalima@example.com,+55 57 9 3179-2044,54630.75,Conversível,Carteira Digital
+215,Lorenzo,M,25/11/1982,AM,siqueiramaria-sophia@example.com,+55 (027) 98825 7267,36424.81,Van,Transferência Bancária
+216,Larissa,F,14/12/1944,RS,asa@example.net,+55 24 94369 2359,25184.5,Hatch,Cartão de Débito
+217,Lorena,F,25/05/1989,MG,gpereira@example.org,+55 05 9 2936-6654,41359.2,Utilitário,Pix
+218,Kevin,M,30/05/1989,PE,ana-carolinacampos@example.com,+55 51 9 7128-6625,51831.53,Compacto,Dinheiro
+219,Lara,F,19/08/2005,PR,luanafonseca@example.com,+55 (10) 9 5411 1959,42009.96,Conversível,Leasing
+220,Kamilly,F,26/08/1975,PE,eloamoreira@example.net,+55 (034) 96165 1976,15510.63,Minivan,Boleto Bancário
+221,Luiza,F,01/01/2003,RS,carvalhobenjamin@example.com,+55 25 9 3915-6965,6103.11,Hatch,Transferência Bancária
+222,Joaquim,M,29/10/1999,MS,miguelnogueira@example.net,+55 86 9 6456-3978,10346.08,Luxo,Dinheiro
+223,Esther,F,16/04/1950,ES,raquelandrade@example.net,+55 (07) 9 9094 3220,35297.26,Sedan,Cartão de Crédito
+224,Lucas Gabriel,M,24/01/1947,BA,da-cunhatheo@example.com,+55 07 91920 3662,40254.77,Coupé,Carteira Digital
+225,Caroline,F,29/07/1989,PI,pintoapollo@example.com,+55 (68) 92029 5201,15765.24,Elétrico,Pix
+226,Valentina,F,09/01/1990,RJ,pcorreia@example.net,+55 (44) 9 6167 3323,10186.85,SUV,Carteira Digital
+227,Gabriel,M,28/05/1962,CE,balves@example.net,+55 58 96951 4813,43255.99,Hatch,Leasing
+228,Isabella,F,06/07/1979,AP,ravi-lucca85@example.com,+55 (059) 99982 4360,32562.08,Hatch,Leasing
+229,Paulo,M,12/12/1960,MT,hda-cruz@example.com,+55 (004) 90993 8514,27393.11,Hatch,Dinheiro
+230,Pietro,M,07/12/1945,ES,araujoisaac@example.com,+55 25 90466-7168,38092.75,Van,Cartão de Débito
+231,Ana Beatriz,F,20/12/2004,DF,yuricassiano@example.org,+55 38 95411-1755,59628.67,Van,Boleto Bancário
+232,Lara,F,31/08/2004,RJ,davi-lucca42@example.org,+55 37 98186 1910,32689.67,Coupé,Boleto Bancário
+233,Lucas Gabriel,M,30/11/2005,MT,camposbruno@example.net,+55 67 97665-7510,32804.57,Híbrido,Leasing
+234,João Vitor,M,03/04/1987,DF,bruna36@example.net,+55 (82) 97680 4409,34657.94,Minivan,Leasing
+235,Mariana,F,06/09/1978,ES,lsa@example.net,+55 17 9 3225-7333,19976.57,Utilitário,Cartão de Débito
+236,José Pedro,M,13/12/1956,MA,monteiroesther@example.net,+55 (76) 95439-2874,37185.17,Esportivo,Pix
+237,Lunna,F,30/04/1952,SE,oliviaalves@example.org,+55 82 96022-1016,54725.81,Van,Dinheiro
+238,Rael,M,27/05/1959,AC,lcamargo@example.net,+55 39 9 3685-4435,14307.7,Coupé,Pix
+239,Heloísa,F,15/05/2006,SE,brunapereira@example.net,+55 05 93922-5288,36934.25,Esportivo,Dinheiro
+240,Ana Lívia,F,25/06/1960,CE,mateus04@example.net,+55 (33) 99029-6003,44365.89,Elétrico,Transferência Bancária
+241,Rodrigo,M,01/01/1982,RJ,qmachado@example.net,+55 (16) 96373 9385,42388.58,Híbrido,Transferência Bancária
+242,Marcos Vinicius,M,18/07/1957,SE,casa-grandevitor@example.org,+55 (037) 96682-5773,21918.47,Esportivo,Financiamento
+243,João Gabriel,M,12/03/2006,ES,da-rochalunna@example.net,+55 (51) 9 8288-0144,37745.87,Van,Leasing
+244,Ísis,F,31/07/1951,RN,gpeixoto@example.org,+55 (076) 93871-2516,35971.24,Off-road,Leasing
+245,Rhavi,M,28/12/1989,MA,helena81@example.org,+55 01 9 0671-0844,35771.69,SUV,Transferência Bancária
+246,Laura,F,19/07/1962,SE,theomachado@example.com,+55 71 9 9821 2295,25523.25,Esportivo,Transferência Bancária
+247,Enzo Gabriel,M,08/07/1993,MT,luara56@example.com,+55 40 90183 6073,51072.86,Luxo,Leasing
+248,Ísis,F,24/07/1977,PE,lavinia20@example.net,+55 (040) 97090-2733,7191.23,Minivan,Cartão de Débito
+249,Alana,F,19/10/2005,RO,otaviodias@example.org,+55 (32) 96523-0117,40864.13,Coupé,Leasing
+250,Allana,F,03/11/1960,PB,ana-laura79@example.com,+55 39 99078 3190,21196.75,Sedan,Leasing
+251,Ana Lívia,F,23/06/2004,PR,rochaisis@example.com,+55 (74) 95354-7247,44592.75,Sedan,Cartão de Débito
+252,Alexia,F,18/10/2006,RJ,goncalvesdavi-luiz@example.com,+55 (05) 9 3223-6645,20969.84,Crossover,Boleto Bancário
+253,Amanda,F,22/07/1953,ES,mbarros@example.com,+55 45 9 9086 9576,45027.82,Off-road,Dinheiro
+254,Breno,M,19/03/1974,MT,aparecidadavi-lucas@example.org,+55 95 9 6757 1706,7849.11,Off-road,Cartão de Débito
+255,Antony,M,21/04/1999,MG,joao-vitor56@example.org,+55 (042) 98637 7428,39371.42,Picape,Dinheiro
+256,Antonella,F,28/09/1990,PB,anovaes@example.com,+55 (003) 94959-8974,45098.61,Hatch,Pix
+257,Ravi,M,02/10/1988,AL,laviniamoreira@example.com,+55 (093) 98419 3176,32934.52,Picape,Boleto Bancário
+258,Maria Cecília,F,31/12/2004,ES,machadogustavo@example.com,+55 (69) 91578 3353,9471.24,Luxo,Leasing
+259,Emilly,F,12/01/1960,SE,rhavipeixoto@example.com,+55 (59) 97552-2816,22881.04,Médio,Pix
+260,Natália,F,10/06/1967,SP,murilo09@example.net,+55 12 98436-2481,6226.93,Off-road,Carteira Digital
+261,Caroline,F,05/08/1999,RN,siqueiranina@example.org,+55 (12) 93522-5067,12803.38,Sedan,Transferência Bancária
+262,Giovanna,F,19/10/1958,SE,da-pazrhavi@example.net,+55 (58) 94824 5528,48644.73,Crossover,Carteira Digital
+263,Gabriela,F,09/01/1951,CE,benjamim97@example.org,+55 (065) 96300-6270,45210.31,Crossover,Pix
+264,Pedro Lucas,M,29/08/1967,MG,alana04@example.net,+55 (014) 99293 6467,13174.09,Off-road,Cartão de Crédito
+265,Ryan,M,22/02/1983,RS,da-motaleonardo@example.com,+55 25 9 0712 0666,12097.42,Híbrido,Transferência Bancária
+266,Olivia,F,13/07/1990,RS,luancorreia@example.com,+55 15 94209 9633,58571.99,Hatch,Transferência Bancária
+267,José Miguel,M,19/05/1974,GO,maria-clara96@example.org,+55 98 9 4547-6760,8403.56,Elétrico,Leasing
+268,Davi,M,18/12/2006,BA,heloisacamara@example.org,+55 (08) 93793-6761,33843.92,Médio,Dinheiro
+269,Catarina,F,16/06/1996,PA,machadojulia@example.net,+55 65 91107 3760,10127.39,SUV,Financiamento
+270,Valentim,M,24/03/1976,MG,yasmin60@example.net,+55 05 9 8960 7603,15697.22,Van,Cartão de Débito
+271,Sarah,F,20/12/1949,AP,luiz-miguel31@example.org,+55 (40) 9 2179 5558,50569.91,Médio,Carteira Digital
+272,Vicente,M,22/05/1994,AM,jesusbenjamim@example.org,+55 (035) 91347-1788,13045.53,Crossover,Boleto Bancário
+273,Liam,M,17/11/1978,MG,davi-lucas75@example.org,+55 (059) 93516-0040,51143.46,Elétrico,Cartão de Débito
+274,Amanda,F,24/02/1970,MT,ebarros@example.net,+55 (069) 93181-8777,25265.73,Híbrido,Financiamento
+275,Vinicius,M,26/05/2001,RR,maria-juliacastro@example.net,+55 (054) 93993 2724,7378.6,Picape,Pix
+276,Sara,F,07/07/1968,PI,guerravitoria@example.com,+55 15 99780-0159,21094.95,Elétrico,Carteira Digital
+277,Vitória,F,20/02/1995,BA,cteixeira@example.org,+55 (80) 90769 8172,14077.57,Utilitário,Boleto Bancário
+278,Luiz Otávio,M,14/11/1979,RO,vicentecirino@example.org,+55 52 90348 0084,25156.36,Coupé,Cartão de Crédito
+279,Pietro,M,08/06/1966,AC,vitor88@example.com,+55 69 9 3719 1695,33090.22,SUV,Cartão de Débito
+280,Fernanda,F,27/06/1963,RS,joao-guilherme37@example.com,+55 (18) 9 3798-1105,16425.83,Médio,Leasing
+281,Caio,M,23/05/1987,SP,luizacavalcante@example.net,+55 (037) 95408-7160,48585.08,Coupé,Pix
+282,Gustavo Henrique,M,16/07/1945,AL,luiz-fernando42@example.com,+55 48 97928 3471,59581.19,Híbrido,Financiamento
+283,Maria Laura,F,05/12/1995,GO,camaraaugusto@example.com,+55 (48) 99205-8575,44576.38,Utilitário,Dinheiro
+284,Brenda,F,11/06/1953,AL,casa-grandecarolina@example.com,+55 (044) 99458-0724,35567.17,Esportivo,Transferência Bancária
+285,Bruno,M,10/12/1993,PB,sara68@example.org,+55 30 9 6938 1021,28949.24,Esportivo,Cartão de Débito
+286,Eduarda,F,16/11/1974,AM,estermoraes@example.com,+55 (051) 92730 7848,23364.88,Van,Cartão de Crédito
+287,Davi Luiz,M,02/08/1956,AL,ana-laura67@example.com,+55 (026) 90158-1487,59543.33,Van,Cartão de Débito
+288,Rodrigo,M,23/02/1969,CE,maria-luiza65@example.org,+55 30 9 9828 3405,49485.95,Luxo,Leasing
+289,Mariane,F,23/09/1989,MA,stella87@example.com,+55 (85) 9 2889-8174,54039.44,Hatch,Boleto Bancário
+290,Luan,M,01/10/1983,GO,santoshellena@example.org,+55 (072) 98100-1883,37572.24,Sedan,Dinheiro
+291,Isaac,M,13/10/1959,RO,benjamim80@example.com,+55 (27) 9 1328-8167,12114.22,Elétrico,Boleto Bancário
+292,Pedro Henrique,M,30/11/1993,PI,rcunha@example.org,+55 (03) 9 1867 6238,46255.93,Van,Boleto Bancário
+293,Otávio,M,28/03/1959,RR,calebe47@example.com,+55 43 9 1736 1402,40030.43,Coupé,Carteira Digital
+294,Kevin,M,17/02/2007,SP,vitoria44@example.org,+55 (42) 90673-6230,55945.88,Picape,Cartão de Crédito
+295,Agatha,F,30/09/1980,RJ,levigarcia@example.org,+55 (57) 9 3634 8982,7803.69,Médio,Boleto Bancário
+296,Otto,M,04/10/1974,ES,rodrigo43@example.net,+55 (41) 91760 6797,32913.28,Off-road,Leasing
+297,Maria Júlia,F,22/01/1968,RR,valentim18@example.org,+55 02 9 4855-4792,21277.19,Van,Pix
+298,Benicio,M,05/04/2002,SP,mendoncabento@example.org,+55 29 9 0965-9486,6902.3,Van,Pix
+299,Melina,F,29/04/1999,SP,souzamiguel@example.com,+55 93 9 5400 9461,37521.31,Coupé,Leasing
+300,Giovanna,F,15/05/1950,RR,lfreitas@example.org,+55 (55) 9 9594 5849,26801.28,Van,Financiamento
+301,Mariane,F,11/10/1983,RR,hborges@example.net,+55 (50) 9 7504 6729,24625.85,Conversível,Financiamento
+302,Laura,F,14/04/1962,RR,renannunes@example.net,+55 12 94083 8964,21470.39,Off-road,Dinheiro
+303,Isaque,M,03/08/1987,SE,martinsnathan@example.com,+55 (019) 90752-9429,30149.28,Picape,Financiamento
+304,Henry,M,08/07/1951,ES,camargoenrico@example.org,+55 (037) 98685-2474,26818.32,Compacto,Cartão de Crédito
+305,Brenda,F,27/07/1948,BA,rporto@example.net,+55 43 9 8143 1375,33784.92,SUV,Cartão de Crédito
+306,Isabel,F,11/01/1948,BA,cunhajoao-miguel@example.com,+55 (24) 92205-1605,51545.07,SUV,Financiamento
+307,Evelyn,F,20/05/1955,PA,wandrade@example.com,+55 57 9 3790 7711,40946.51,Crossover,Dinheiro
+308,Arthur Miguel,M,05/12/1960,AP,maria-flor93@example.com,+55 (39) 99601 7695,9246.51,Utilitário,Financiamento
+309,Maria Cecília,F,20/09/1979,PA,mcavalcante@example.com,+55 (91) 9 5695 2652,45853.81,Sedan,Transferência Bancária
+310,Isabel,F,09/12/2000,PR,fda-mata@example.org,+55 (75) 9 7558 5943,36393.78,Off-road,Dinheiro
+311,Vinicius,M,11/09/1988,MA,cirinotheo@example.org,+55 (66) 9 1633-5147,38342.74,Coupé,Cartão de Crédito
+312,Anthony,M,20/10/2006,PA,da-cruzcalebe@example.org,+55 (032) 95298 7678,18590.98,Elétrico,Boleto Bancário
+313,Liam,M,27/12/1944,AM,knovais@example.com,+55 (15) 92257-7729,19267.44,SUV,Financiamento
+314,Gustavo,M,25/07/1980,MA,olivia40@example.com,+55 70 9 0059 7867,7622.37,Hatch,Leasing
+315,Gael Henrique,M,23/09/1951,RO,liam33@example.com,+55 (02) 9 4617 0466,44468.85,Minivan,Cartão de Crédito
+316,Enzo Gabriel,M,04/12/1958,SC,moraesrafael@example.net,+55 (022) 93735-8501,45359.68,Picape,Financiamento
+317,Dom,M,14/11/2004,RO,francisco36@example.net,+55 (020) 90950-7283,19617.26,Utilitário,Transferência Bancária
+318,Júlia,F,09/05/1965,MS,henry-gabrielnovaes@example.org,+55 (044) 98355 8023,44956.67,Van,Pix
+319,Raquel,F,20/12/1961,SE,sabrina03@example.org,+55 (46) 97469-4061,11874.46,Elétrico,Pix
+320,Enrico,M,20/06/1985,MS,pmartins@example.org,+55 (76) 99017 3289,45127.16,Hatch,Dinheiro
+321,Miguel,M,05/12/1955,CE,camargomaria-liz@example.net,+55 (037) 99698-2113,40484.21,Coupé,Pix
+322,João Felipe,M,09/10/1991,CE,gabriel63@example.net,+55 (56) 9 5774 4641,20499.49,Crossover,Cartão de Crédito
+323,Thales,M,07/02/2007,AM,moraespedro-lucas@example.com,+55 08 9 8857 5570,17629.95,Utilitário,Dinheiro
+324,Fernanda,F,03/04/1978,ES,ribeiroliz@example.org,+55 (050) 97443-0496,20042.08,Utilitário,Financiamento
+325,Ayla,F,29/09/1961,PI,ygomes@example.net,+55 (012) 90908-6872,42052.4,Utilitário,Pix
+326,Clara,F,27/06/1973,BA,grios@example.org,+55 (12) 92293 5643,56064.57,Picape,Transferência Bancária
+327,Maria Fernanda,F,02/01/1969,AC,wcastro@example.com,+55 24 9 7885 5796,11471.72,Elétrico,Pix
+328,Ester,F,21/09/1954,RN,aliceviana@example.net,+55 84 92685-3458,33126.98,Sedan,Leasing
+329,Thiago,M,12/07/1955,RR,gcampos@example.net,+55 (59) 9 7277 6520,19966.66,Híbrido,Cartão de Crédito
+330,Alice,F,16/02/1959,DF,jalmeida@example.org,+55 (07) 9 5499-2227,12941.2,Esportivo,Cartão de Débito
+331,Marcela,F,18/12/1951,TO,pimentaleo@example.org,+55 (57) 97028 7004,59671.81,Hatch,Cartão de Crédito
+332,Isabella,F,19/05/1956,SE,garciastella@example.com,+55 (18) 9 3999-4207,43610.12,Van,Transferência Bancária
+333,Letícia,F,06/05/1954,RJ,mrocha@example.org,+55 (97) 95647-7889,9133.98,Hatch,Financiamento
+334,Lorenzo,M,12/12/1947,PE,cecilia29@example.org,+55 23 96977 6712,55964.42,Esportivo,Financiamento
+335,Gustavo Henrique,M,14/08/1945,PA,heloisacorreia@example.com,+55 (03) 9 4004-6320,15215.64,Médio,Dinheiro
+336,Otto,M,14/07/1945,PR,josuecamara@example.org,+55 83 9 0978-0899,17138.02,SUV,Boleto Bancário
+337,José Miguel,M,29/11/2002,AL,rodrigofreitas@example.com,+55 67 95452 6056,32297.59,Elétrico,Leasing
+338,Ana Cecília,F,19/05/1964,MA,murilo42@example.net,+55 (56) 98346 6366,49980.9,Off-road,Carteira Digital
+339,Daniela,F,01/05/1982,AP,maria-clara22@example.net,+55 (45) 9 6803 5121,40469.95,Hatch,Pix
+340,Maysa,F,24/05/1993,RR,ferreiraeloa@example.com,+55 77 98973 5529,43983.58,Sedan,Financiamento
+341,Théo,M,30/03/1965,BA,duartejosue@example.org,+55 (24) 90875 9674,9937.2,Picape,Pix
+342,Carolina,F,28/06/1979,AM,silveirajoao-vitor@example.net,+55 (86) 9 4703-1173,59741.55,Off-road,Financiamento
+343,Agatha,F,26/10/1948,ES,lucas-gabriel71@example.org,+55 (74) 92128-2299,27489.05,SUV,Pix
+344,Kamilly,F,20/02/1996,CE,hmontenegro@example.org,+55 01 9 6632 4105,5679.4,Crossover,Leasing
+345,Fernando,M,04/10/1965,PB,oliviamacedo@example.org,+55 (078) 91923 8005,35627.61,Van,Boleto Bancário
+346,Ísis,F,21/06/1954,CE,ravi87@example.org,+55 19 9 3009 0369,5209.58,Sedan,Financiamento
+347,Maria Cecília,F,24/05/1986,PE,ncunha@example.net,+55 57 95716-5244,39644.16,Esportivo,Cartão de Crédito
+348,Lívia,F,14/06/1998,RR,carolinapeixoto@example.com,+55 (016) 97856-4054,23625.74,Picape,Cartão de Crédito
+349,Murilo,M,20/05/1974,TO,yasmin09@example.net,+55 (13) 9 7727 8717,21350.85,Médio,Carteira Digital
+350,Alexandre,M,03/04/2001,RN,joao-gabrielgoncalves@example.org,+55 (28) 91217 4382,47776.98,Compacto,Carteira Digital
+351,Maria,F,06/12/1978,AC,isadorasa@example.com,+55 (18) 9 3938-6971,7627.8,Minivan,Carteira Digital
+352,Juan,M,25/11/1986,RJ,liam55@example.com,+55 (68) 9 8291 4591,44321.5,Sedan,Cartão de Débito
+353,Luiz Felipe,M,29/03/1946,PR,opires@example.org,+55 14 99253-0116,36164.73,Compacto,Cartão de Crédito
+354,João Lucas,M,25/10/1991,PB,tmacedo@example.com,+55 (93) 92452-1112,13589.49,Hatch,Boleto Bancário
+355,Breno,M,23/03/2005,ES,noahcamara@example.org,+55 (078) 92201-7421,5448.0,Esportivo,Cartão de Débito
+356,Manuela,F,05/12/2004,RS,jda-paz@example.net,+55 (00) 94979 5358,28159.13,Sedan,Transferência Bancária
+357,Maria Isis,F,20/08/1996,SP,cavalcantibarbara@example.net,+55 (039) 95185 0604,53791.27,SUV,Financiamento
+358,Bento,M,28/04/1955,RS,alima@example.com,+55 31 98742 1953,41356.46,Crossover,Cartão de Débito
+359,Ana,F,12/11/1961,PE,biancada-costa@example.org,+55 41 96913 6166,20850.58,Off-road,Carteira Digital
+360,Jade,F,20/02/1977,AP,benjaminda-rosa@example.net,+55 10 95891 8501,49937.38,Híbrido,Cartão de Débito
+361,Vinicius,M,02/01/2004,CE,francisco57@example.com,+55 23 9 4818-2569,23218.63,Off-road,Boleto Bancário
+362,João Lucas,M,11/12/1968,TO,kamilly14@example.org,+55 (091) 98362-5110,20140.33,Hatch,Cartão de Débito
+363,Murilo,M,31/10/2001,RS,kamilly17@example.com,+55 85 9 0774 6266,54932.74,Luxo,Transferência Bancária
+364,Eduarda,F,04/02/1977,RR,nina80@example.net,+55 (37) 9 2959-6297,24266.39,Luxo,Pix
+365,Raul,M,26/06/2004,ES,diasarthur@example.org,+55 (21) 92573-3299,26816.58,Coupé,Financiamento
+366,Lucas Gabriel,M,04/04/1971,RJ,kda-mata@example.net,+55 (98) 96989-3670,36349.27,Utilitário,Carteira Digital
+367,Pedro Lucas,M,06/05/1978,AP,ana-laura27@example.org,+55 (012) 98186-9640,59644.2,Minivan,Cartão de Crédito
+368,Larissa,F,22/03/1979,PE,alanamoura@example.net,+55 (000) 94605 4010,40609.79,Minivan,Pix
+369,Kaique,M,22/09/1985,ES,gcaldeira@example.org,+55 56 9 5274-9675,20250.87,Sedan,Transferência Bancária
+370,Ravy,M,30/04/1976,MA,castroemanuel@example.net,+55 (51) 90839 3513,24017.93,Picape,Cartão de Crédito
+371,Yasmin,F,19/04/1975,PA,mporto@example.com,+55 97 90454 7390,28728.45,SUV,Boleto Bancário
+372,Vinicius,M,12/03/1946,MT,mathiascostela@example.net,+55 (65) 9 7190 7357,38728.44,Híbrido,Dinheiro
+373,Esther,F,15/11/1987,CE,maria05@example.net,+55 37 99666 1313,8315.62,Luxo,Dinheiro
+374,José,M,03/12/1952,SE,levi54@example.org,+55 (79) 93849-5694,28954.57,Minivan,Leasing
+375,Juliana,F,11/08/1957,RS,valentim87@example.com,+55 84 9 9398 6157,50313.82,SUV,Boleto Bancário
+376,Vitor Hugo,M,24/04/1986,MS,liviasiqueira@example.com,+55 (06) 90628 6475,31098.09,Picape,Pix
+377,Henrique,M,16/07/1997,AC,mendesemilly@example.net,+55 57 9 3568 2813,25371.18,Híbrido,Cartão de Débito
+378,Mariah,F,01/03/2006,PB,isabeldas-neves@example.com,+55 (067) 90347 2523,55545.51,Médio,Financiamento
+379,Bruno,M,20/03/1966,AP,pastorvalentina@example.org,+55 (93) 92863 9051,38461.78,Crossover,Financiamento
+380,Bella,F,13/02/1971,TO,pereirayasmin@example.com,+55 (08) 9 0302-8344,11073.04,Van,Leasing
+381,Yasmin,F,02/07/2005,AM,gabriellyfernandes@example.com,+55 (43) 96732 0500,39461.38,Hatch,Cartão de Crédito
+382,Miguel,M,25/11/1975,SC,goncalvesmarcelo@example.com,+55 (01) 9 4627-0441,40553.92,Crossover,Transferência Bancária
+383,Emanuel,M,14/09/1953,SE,benjamim03@example.net,+55 35 97201-0762,21598.09,Van,Carteira Digital
+384,Emanuella,F,06/03/1982,RO,maria-flor77@example.org,+55 (34) 92909 3299,35091.27,Luxo,Cartão de Crédito
+385,Theodoro,M,17/06/1945,SE,avargas@example.org,+55 (047) 98229 0475,58781.63,Médio,Cartão de Débito
+386,Benjamim,M,08/10/2002,AM,nda-mota@example.net,+55 (53) 9 4706-7321,35870.75,Hatch,Carteira Digital
+387,Heloisa,F,03/04/1992,SE,nferreira@example.net,+55 77 9 5441-0459,24799.45,Elétrico,Transferência Bancária
+388,Theo,M,03/10/1979,RJ,salesthomas@example.net,+55 41 9 7271-8314,55390.66,Hatch,Pix
+389,Dante,M,05/03/1972,RJ,isadora84@example.net,+55 (71) 91185 9840,25422.18,Esportivo,Transferência Bancária
+390,Júlia,F,20/02/1990,ES,calebesampaio@example.com,+55 27 9 0380 4291,40185.64,Minivan,Carteira Digital
+391,Ana Julia,F,31/05/1983,BA,cborges@example.com,+55 48 9 4954 9400,22931.48,Coupé,Dinheiro
+392,Ana Luiza,F,30/12/1952,SP,cavalcantivinicius@example.net,+55 (06) 9 7150 2366,23775.47,Esportivo,Financiamento
+393,Luara,F,16/05/1968,SE,alexiaribeiro@example.org,+55 (93) 9 4170-7730,10489.91,Utilitário,Boleto Bancário
+394,Caroline,F,28/10/1973,AL,garcialeo@example.org,+55 (070) 94096-3472,35315.86,Picape,Boleto Bancário
+395,Hellena,F,02/10/1955,PR,hcardoso@example.com,+55 04 96198-5130,48797.71,Médio,Cartão de Crédito
+396,Ana Lívia,F,25/03/2007,PE,maysalima@example.org,+55 (15) 98820 9297,7542.78,Sedan,Cartão de Crédito
+397,Allana,F,30/09/1998,PB,novaesana-liz@example.com,+55 (001) 95039 9326,9222.45,Híbrido,Transferência Bancária
+398,Calebe,M,10/07/1986,AM,xmarques@example.net,+55 60 9 5094 5539,41297.56,Conversível,Pix
+399,Bruna,F,21/09/1944,DF,wrezende@example.org,+55 77 93345-3999,36826.0,Sedan,Cartão de Débito
+400,Maysa,F,04/11/1976,DF,ravi-lucca63@example.com,+55 (87) 9 6072-5062,24319.82,Picape,Pix
+401,Maria Clara,F,14/11/1982,RO,krocha@example.net,+55 (22) 9 9274 9426,12155.27,Elétrico,Financiamento
+402,Bernardo,M,02/08/1955,AM,eazevedo@example.org,+55 75 94816 2794,57143.41,Médio,Carteira Digital
+403,Ravy,M,15/09/1960,PI,juliasouza@example.com,+55 (74) 93857-2743,20798.68,Médio,Pix
+404,Sarah,F,20/07/1953,MS,valentinapereira@example.org,+55 89 9 0511 3289,36942.3,Off-road,Leasing
+405,João Felipe,M,19/06/1976,CE,gael-henriquecarvalho@example.com,+55 (025) 95559 9785,14709.03,Off-road,Cartão de Débito
+406,Maria Helena,F,14/10/1949,PA,mariane95@example.com,+55 69 9 8829-6491,40478.34,Picape,Leasing
+407,Emilly,F,26/09/1974,RS,mariahcamara@example.org,+55 25 90502-5363,58569.52,Compacto,Pix
+408,Beatriz,F,12/11/1999,SE,melinavasconcelos@example.org,+55 44 97623-0308,27430.59,Luxo,Transferência Bancária
+409,Arthur,M,13/12/1945,SC,costelanina@example.com,+55 (054) 94001-7631,43873.08,Médio,Cartão de Débito
+410,Ana Lívia,F,25/05/1985,BA,ana-carolinavieira@example.com,+55 38 9 8505 8972,25191.18,Conversível,Pix
+411,Pedro Miguel,M,14/03/1979,DF,melorafael@example.net,+55 04 95452 3783,36791.57,Van,Carteira Digital
+412,Natália,F,23/02/1976,RN,lucas26@example.org,+55 (32) 97569-2899,58439.68,Picape,Transferência Bancária
+413,Olívia,F,12/07/1980,TO,barbosaluiz-otavio@example.com,+55 (91) 9 4086 1565,52985.5,Esportivo,Dinheiro
+414,Gabriel,M,20/08/1965,MG,gabrielly98@example.net,+55 (33) 9 0891-7904,18023.66,Conversível,Pix
+415,Gael,M,19/01/1974,MS,eloateixeira@example.com,+55 (76) 90876 2304,54799.55,Minivan,Financiamento
+416,Rafaela,F,30/09/1973,AP,danielasampaio@example.com,+55 (27) 98259 1035,27670.48,Elétrico,Cartão de Crédito
+417,Bruno,M,20/06/1998,AM,kvieira@example.org,+55 62 90832-6613,11955.14,Minivan,Pix
+418,Antony,M,07/02/1959,MG,leticiamendes@example.com,+55 73 9 9654 1996,15254.53,SUV,Pix
+419,Maria Liz,F,14/06/1973,AL,cunhaenrico@example.net,+55 (13) 9 3427 8121,5332.52,Compacto,Boleto Bancário
+420,Raquel,F,23/09/1948,RS,gazevedo@example.org,+55 92 95057-7292,5822.29,Híbrido,Transferência Bancária
+421,Stephany,F,06/06/1962,AC,yasmin83@example.org,+55 51 9 0112-5113,58588.88,Minivan,Transferência Bancária
+422,Asafe,M,12/01/1996,RR,anna-lizda-conceicao@example.net,+55 39 9 9343-6676,58896.04,Picape,Carteira Digital
+423,Mariane,F,15/12/1975,PB,asafepastor@example.net,+55 83 96708-4822,51986.82,SUV,Boleto Bancário
+424,Sabrina,F,27/04/1972,RJ,lrezende@example.org,+55 (82) 95115-9781,57024.67,Elétrico,Carteira Digital
+425,Sophie,F,24/08/1963,CE,dramos@example.org,+55 (72) 9 2970-2715,15997.76,Coupé,Dinheiro
+426,Sarah,F,14/09/1994,AM,oliver87@example.com,+55 40 96903 5490,47708.51,Compacto,Cartão de Débito
+427,Olívia,F,25/04/2001,PE,pastormiguel@example.net,+55 (50) 9 6935 0970,16040.54,Compacto,Dinheiro
+428,Théo,M,17/07/1982,PE,almeidabenicio@example.com,+55 29 99169 4967,51013.53,SUV,Dinheiro
+429,Igor,M,01/03/1945,RO,msouza@example.org,+55 (94) 92918 9194,30995.11,Minivan,Financiamento
+430,Maria Eduarda,F,08/12/1987,RR,da-rosanicole@example.com,+55 (66) 9 5868-4008,51779.14,Elétrico,Boleto Bancário
+431,Igor,M,22/02/1975,PA,frodrigues@example.com,+55 68 95873-5285,26859.91,Off-road,Cartão de Débito
+432,Sophie,F,17/07/1960,AP,samuel47@example.com,+55 (59) 9 4785-7410,18540.46,Minivan,Financiamento
+433,Maria,F,20/04/1951,PE,joaquimda-cunha@example.org,+55 (29) 99033-8928,52348.49,Crossover,Cartão de Crédito
+434,Alana,F,09/05/1993,PE,eloa29@example.com,+55 (79) 90913-3264,30793.93,Híbrido,Cartão de Crédito
+435,Luigi,M,29/06/2001,MS,zmelo@example.com,+55 (46) 9 6238 3322,9084.98,SUV,Financiamento
+436,Nina,F,19/10/1994,TO,da-cunhaana-sophia@example.org,+55 62 9 0872-9634,10945.04,Esportivo,Pix
+437,Cauê,M,20/10/1966,RJ,gmarques@example.org,+55 78 9 6874-8769,50745.78,Sedan,Cartão de Débito
+438,Isis,F,12/08/1972,MG,zporto@example.net,+55 (32) 9 9388-0152,17411.27,Hatch,Transferência Bancária
+439,José Pedro,M,09/03/1966,CE,nunesjose-pedro@example.org,+55 (091) 92799 4308,13767.45,Híbrido,Carteira Digital
+440,Aurora,F,07/10/1963,TO,wcaldeira@example.org,+55 54 9 1412-6010,10789.14,Minivan,Leasing
+441,Marcela,F,24/10/1953,PB,costahenry@example.com,+55 15 9 3102 8336,18782.63,Médio,Dinheiro
+442,Marina,F,27/11/1978,MS,amelo@example.org,+55 01 9 8719 1620,14668.81,Luxo,Leasing
+443,Ravi,M,02/04/1983,AP,novaesbenjamim@example.net,+55 (073) 91672 8857,17525.82,Off-road,Carteira Digital
+444,Luara,F,15/10/1953,RN,lalbuquerque@example.com,+55 (065) 98096 3964,7784.48,Elétrico,Financiamento
+445,Isabel,F,13/11/1958,MT,pereiraester@example.net,+55 00 9 2385-9584,57027.04,Crossover,Boleto Bancário
+446,Olivia,F,12/09/1961,GO,arthur-gabriel52@example.com,+55 07 9 8988 3230,21213.7,Sedan,Financiamento
+447,Lorenzo,M,26/09/1999,TO,afogaca@example.org,+55 (005) 92294 8360,24365.5,Picape,Boleto Bancário
+448,Davi,M,24/07/1946,AP,bruno75@example.net,+55 86 93169 0330,9941.02,Hatch,Cartão de Débito
+449,Luan,M,23/11/1970,PI,vianaenrico@example.net,+55 88 9 9805-8196,19231.9,Minivan,Cartão de Crédito
+450,Isabella,F,13/07/1956,RN,nunesisabela@example.net,+55 (94) 9 0884 6868,55344.3,Médio,Boleto Bancário
+451,Mirella,F,16/07/1988,RS,da-luzluna@example.com,+55 (38) 9 9063 6484,8925.1,Minivan,Leasing
+452,Anthony Gabriel,M,22/06/1983,MS,isabellada-conceicao@example.com,+55 03 9 1622-2125,16018.36,Médio,Cartão de Crédito
+453,Maria Luísa,F,22/10/2001,RO,ksampaio@example.org,+55 (090) 91695 9706,21850.58,Sedan,Carteira Digital
+454,Ana Liz,F,15/01/2002,DF,gviana@example.com,+55 22 95933-2679,12605.87,SUV,Leasing
+455,Lavínia,F,26/09/1981,PE,bellapires@example.com,+55 86 9 5586-2850,23492.54,Médio,Dinheiro
+456,Miguel,M,07/05/2000,AL,rezendealexandre@example.org,+55 (014) 98868 0680,12863.07,Minivan,Leasing
+457,Ana,F,14/03/1982,MA,cavalcantimaria-fernanda@example.net,+55 (044) 98873-3360,54532.93,Hatch,Boleto Bancário
+458,Lorenzo,M,24/12/1965,SP,benjamimcardoso@example.org,+55 (35) 97064-4963,27344.53,Crossover,Dinheiro
+459,Milena,F,02/03/1999,TO,britoelisa@example.org,+55 (019) 93143 2260,6325.8,Crossover,Cartão de Débito
+460,Eloah,F,25/07/1969,GO,dpinto@example.net,+55 (70) 9 5303-4496,17266.24,Off-road,Boleto Bancário
+461,Danilo,M,04/06/1987,CE,arthur-miguelpacheco@example.org,+55 19 9 0638 3684,9269.48,Esportivo,Carteira Digital
+462,Vitor Gabriel,M,04/07/1955,SC,das-nevesjosue@example.net,+55 29 9 3325-9464,52980.67,Coupé,Carteira Digital
+463,Kaique,M,03/09/1968,MG,nicoleda-cunha@example.org,+55 (87) 91331 1989,24284.21,Compacto,Cartão de Débito
+464,Maria Fernanda,F,10/01/1946,AM,freitasagatha@example.net,+55 69 95236-9897,8858.43,Médio,Carteira Digital
+465,Clara,F,27/03/1974,SE,cirinoemanuelly@example.net,+55 (45) 9 0838 2460,38572.4,Crossover,Pix
+466,Luiz Fernando,M,20/03/1990,PB,amandada-cruz@example.net,+55 (18) 93660 5335,59998.69,Elétrico,Leasing
+467,Luiz Fernando,M,18/03/1954,RO,mpinto@example.com,+55 (68) 9 6229 4787,45095.54,Coupé,Financiamento
+468,Ana Lívia,F,04/12/1974,RN,arthur-miguelrodrigues@example.net,+55 25 9 9559 0992,50230.67,Utilitário,Pix
+469,Luara,F,19/12/1946,PB,fdias@example.net,+55 (006) 91700-6607,50002.28,Elétrico,Boleto Bancário
+470,Alexia,F,01/10/1992,DF,valentimmontenegro@example.net,+55 (84) 95507-5726,54025.39,Esportivo,Leasing
+471,Maria Vitória,F,17/11/1978,RJ,samuelvargas@example.org,+55 73 9 3365-1445,30251.69,Luxo,Pix
+472,Benicio,M,14/06/1984,SP,kcardoso@example.org,+55 35 96894 6717,10103.54,SUV,Transferência Bancária
+473,João Gabriel,M,19/04/1949,AP,benicioaparecida@example.org,+55 26 9 0301-8089,50683.2,Coupé,Cartão de Crédito
+474,Laura,F,22/10/1962,MA,nogueiraisadora@example.com,+55 48 9 5001-0113,29220.65,Hatch,Cartão de Crédito
+475,Nathan,M,28/03/1948,PB,omacedo@example.com,+55 68 97912 0106,50826.86,Picape,Transferência Bancária
+476,Fernanda,F,23/01/2002,MT,ana-vitoriamachado@example.com,+55 35 90418 4304,42741.46,Utilitário,Cartão de Crédito
+477,Davi Lucca,M,21/04/1990,CE,antonioda-mota@example.com,+55 57 97813 3400,6720.99,Elétrico,Cartão de Crédito
+478,Diogo,M,19/03/2006,PB,monteiroeloa@example.com,+55 (71) 98009 2316,24377.98,Hatch,Transferência Bancária
+479,Pedro Henrique,M,12/07/1957,AC,jcavalcanti@example.org,+55 (054) 91741 9358,31873.55,Utilitário,Cartão de Crédito
+480,Fernando,M,29/10/1965,RS,marianarios@example.com,+55 43 98340 0605,29057.61,Coupé,Cartão de Débito
+481,Davi,M,05/08/1997,GO,agathamendonca@example.com,+55 (61) 9 0191 2678,48835.0,Elétrico,Cartão de Crédito
+482,Caroline,F,04/01/2004,AP,mazevedo@example.net,+55 (093) 90763-4537,18258.91,Conversível,Financiamento
+483,Joaquim,M,27/04/1968,MT,caio08@example.net,+55 (80) 9 0879-4740,35194.37,Elétrico,Dinheiro
+484,Noah,M,07/12/1998,PI,jose-miguelcamargo@example.org,+55 (05) 9 2058 7703,28623.02,Compacto,Financiamento
+485,Maria,F,15/05/1951,CE,kaique14@example.com,+55 (45) 9 3147 2045,58862.57,Compacto,Dinheiro
+486,Sophia,F,08/07/1968,AL,vcarvalho@example.net,+55 (081) 98776-9497,43653.05,Esportivo,Dinheiro
+487,Gael,M,27/10/1988,ES,marcela12@example.com,+55 70 9 1489 8008,47582.77,SUV,Financiamento
+488,Raul,M,25/07/1952,RN,brodrigues@example.net,+55 73 9 8019-6612,25682.27,Picape,Dinheiro
+489,Fernando,M,18/07/1955,PE,ana-lauraferreira@example.com,+55 (98) 93686 9726,59562.72,Médio,Cartão de Crédito
+490,Rael,M,19/04/2006,CE,marquesmaria-laura@example.net,+55 31 99229 8263,54892.15,Híbrido,Cartão de Crédito
+491,Miguel,M,30/11/1954,AC,camaraagatha@example.com,+55 (32) 9 6855 6910,21205.03,Off-road,Pix
+492,Maya,F,20/08/1967,SP,joao-vitor42@example.com,+55 (73) 97519-7909,28780.7,Compacto,Cartão de Crédito
+493,Kevin,M,17/01/1972,RN,ramosemanuelly@example.org,+55 46 91026-8068,29106.05,Compacto,Financiamento
+494,Marcos Vinicius,M,06/05/1965,RR,vrodrigues@example.net,+55 (03) 9 8963 7707,48292.98,Minivan,Pix
+495,Anthony,M,29/05/1973,AC,umoura@example.com,+55 (085) 96906 4965,15721.72,Utilitário,Leasing
+496,Lavínia,F,09/07/1991,RO,felipe47@example.com,+55 (03) 97389-0811,14618.19,Conversível,Carteira Digital
+497,Valentim,M,12/07/1969,TO,limajoaquim@example.org,+55 (05) 94036 2216,13914.9,Elétrico,Financiamento
+498,Erick,M,10/07/1980,AP,qaragao@example.net,+55 (93) 9 8934 7273,23084.12,Médio,Transferência Bancária
+499,João,M,23/03/1963,AC,luiz-fernandocavalcanti@example.org,+55 (095) 92757 9866,37202.46,Off-road,Cartão de Crédito
+500,Luiza,F,20/11/1982,PE,eduardo22@example.net,+55 (096) 98349 6388,23264.37,Coupé,Carteira Digital
+501,Fernando,M,04/09/1986,RR,ceciliaviana@example.org,+55 (070) 98586 8914,15102.98,Médio,Leasing
+502,Larissa,F,21/06/1993,GO,maria-isis43@example.com,+55 (56) 9 5691-9276,38000.27,Esportivo,Leasing
+503,Cecilia,F,26/10/1974,SP,joao-felipe29@example.org,+55 (35) 94254-4278,34561.78,Esportivo,Dinheiro
+504,Matheus,M,01/08/1974,ES,rrios@example.org,+55 (041) 92181 4503,39753.32,Crossover,Financiamento
+505,José Miguel,M,29/05/1948,TO,ana-clara50@example.org,+55 18 9 6373 0024,38806.51,Utilitário,Carteira Digital
+506,Maria Alice,F,05/11/2002,DF,hellenapinto@example.net,+55 (54) 95228 3754,23729.61,Elétrico,Pix
+507,Thiago,M,02/11/1954,DF,isabella64@example.net,+55 (18) 92680-0016,15735.15,SUV,Financiamento
+508,Brenda,F,22/04/1964,RN,asafe83@example.com,+55 (87) 9 4764 0515,18357.21,Hatch,Boleto Bancário
+509,Lucas Gabriel,M,11/12/1996,SP,da-cruzdiogo@example.net,+55 10 90971-3976,31507.87,Elétrico,Financiamento
+510,Mariana,F,11/08/1947,BA,felipe62@example.net,+55 63 99278-2233,20793.83,Sedan,Cartão de Crédito
+511,Maria Clara,F,27/10/1982,SE,cavalcantimanuella@example.com,+55 43 9 0424-0432,55085.15,Sedan,Leasing
+512,Luan,M,04/03/2002,DF,ravicorreia@example.com,+55 75 9 7338-2133,38897.07,Hatch,Pix
+513,Maria Luiza,F,30/09/1965,MA,iborges@example.net,+55 (039) 93562 4978,14776.32,Crossover,Carteira Digital
+514,Maria Julia,F,23/10/1991,MT,yda-rocha@example.com,+55 (096) 91837 3886,57412.05,Híbrido,Cartão de Crédito
+515,Júlia,F,08/12/1947,RR,maria-sophia20@example.net,+55 15 96754 8572,30995.76,Coupé,Leasing
+516,Benício,M,02/04/1990,RN,stellagoncalves@example.com,+55 (90) 9 9161 1516,24766.31,Luxo,Transferência Bancária
+517,Nina,F,27/10/1950,AC,stephany34@example.org,+55 (63) 9 9737-0091,32759.31,Elétrico,Financiamento
+518,Liam,M,15/10/1975,AM,monteirolucca@example.com,+55 35 97355-6971,55084.74,Crossover,Leasing
+519,Thomas,M,09/01/1969,PE,imoreira@example.org,+55 31 92440-9455,11582.53,Compacto,Financiamento
+520,Gael,M,23/09/2000,MG,fmendonca@example.com,+55 (00) 9 8165 8913,31718.35,Minivan,Cartão de Débito
+521,Maria Julia,F,24/09/1962,MS,carolinepinto@example.com,+55 55 92698-4606,7928.84,Médio,Leasing
+522,Gabrielly,F,13/04/2000,TO,kevin59@example.net,+55 (96) 97021-8635,19510.82,Compacto,Carteira Digital
+523,Miguel,M,12/02/1993,MA,carvalhoenzo-gabriel@example.org,+55 00 9 1944-2994,46514.7,Elétrico,Leasing
+524,Sarah,F,21/02/1980,RJ,gabriela40@example.org,+55 (18) 94406 4864,6850.84,Esportivo,Dinheiro
+525,Theodoro,M,10/11/1953,MT,ferreiraana-luiza@example.com,+55 (44) 9 5279-3170,44449.18,Utilitário,Pix
+526,Dom,M,08/02/1978,AM,brenda28@example.com,+55 (87) 9 6201-7757,10768.32,Coupé,Cartão de Crédito
+527,Ayla,F,06/06/1985,AP,rda-mota@example.com,+55 (11) 9 3610-1011,41732.17,Picape,Carteira Digital
+528,Vitor Hugo,M,27/05/1999,RN,ramosmelissa@example.net,+55 10 9 2679-7376,54956.96,Médio,Transferência Bancária
+529,Jade,F,13/01/1963,RJ,maria-alice54@example.com,+55 (64) 9 1211 2068,48858.14,Híbrido,Financiamento
+530,Maria Sophia,F,25/03/1998,TO,evieira@example.com,+55 (37) 9 5439 0666,16363.65,Coupé,Pix
+531,Ian,M,01/11/1981,CE,bteixeira@example.com,+55 47 90252 0754,14947.31,Off-road,Cartão de Crédito
+532,Asafe,M,17/04/2003,RO,arthur-gabriel03@example.net,+55 63 9 8506 3605,47935.37,Conversível,Cartão de Crédito
+533,José Pedro,M,31/01/1976,DF,cardosostephany@example.com,+55 (046) 97560-8503,18714.2,Médio,Financiamento
+534,Pedro Henrique,M,11/10/1969,GO,joao-guilherme75@example.com,+55 (033) 92453 3561,24584.6,Minivan,Boleto Bancário
+535,Sara,F,31/05/1978,SE,casa-grandevitor-hugo@example.net,+55 (042) 98912-8120,50323.78,Utilitário,Pix
+536,Davi Lucas,M,01/02/1946,SC,erickcaldeira@example.net,+55 69 9 8163 1494,33367.83,Hatch,Transferência Bancária
+537,Olívia,F,09/04/2003,RO,evelynda-costa@example.com,+55 87 9 3059 0616,39844.29,Van,Dinheiro
+538,Nicolas,M,14/02/1963,SE,talmeida@example.net,+55 52 9 5057 8203,9545.66,Esportivo,Carteira Digital
+539,Vitor Hugo,M,21/10/1966,RR,qfonseca@example.net,+55 06 91855-3457,31280.48,Hatch,Leasing
+540,Hadassa,F,14/09/1976,PA,julianogueira@example.com,+55 (57) 9 8122-5221,29472.16,Utilitário,Pix
+541,Maitê,F,02/03/1962,RS,esthercostela@example.net,+55 (09) 90558-4054,55922.11,Conversível,Transferência Bancária
+542,Maria,F,22/08/1967,PE,xmarques@example.org,+55 (02) 9 9004-3837,40009.18,Picape,Dinheiro
+543,Breno,M,15/11/1976,AM,lda-rosa@example.net,+55 72 9 9709 7337,29743.59,Conversível,Cartão de Débito
+544,Jade,F,25/06/1952,MA,bdas-neves@example.com,+55 (070) 97220-2168,56486.78,Esportivo,Cartão de Débito
+545,Aurora,F,30/10/1969,AM,ssilva@example.net,+55 (078) 93328-2336,40053.47,Esportivo,Financiamento
+546,Lívia,F,01/03/1977,SE,joao-miguelborges@example.net,+55 (059) 94424-9958,7152.81,Utilitário,Transferência Bancária
+547,Emanuelly,F,11/03/1975,RJ,camposisabella@example.com,+55 (061) 92960 4160,33243.92,Picape,Cartão de Débito
+548,Thales,M,03/09/1985,PA,zduarte@example.org,+55 00 99342 1223,37225.34,Utilitário,Carteira Digital
+549,Anthony,M,14/10/1982,SP,marina51@example.com,+55 (081) 96858 8841,43076.66,Médio,Carteira Digital
+550,Milena,F,14/01/1966,AM,isaque36@example.org,+55 (63) 9 2915-4673,35451.56,Luxo,Cartão de Crédito
+551,Lívia,F,22/07/1971,SC,saracampos@example.com,+55 (74) 96664 2499,46797.57,Conversível,Pix
+552,Danilo,M,23/01/1994,RJ,rochamatheus@example.org,+55 (85) 92650 8755,32473.31,Conversível,Cartão de Débito
+553,Ian,M,21/04/1968,AL,kborges@example.com,+55 (46) 98922 8112,25488.58,Híbrido,Boleto Bancário
+554,Ana Lívia,F,23/01/1976,GO,alexandrepimenta@example.org,+55 24 9 4575-8869,15891.37,Médio,Pix
+555,Clara,F,15/07/1948,PB,cirinobenicio@example.com,+55 (33) 9 4039-2925,56244.83,Crossover,Leasing
+556,Pedro Lucas,M,22/04/1953,DF,luara70@example.com,+55 (33) 9 5170 1207,12211.4,Hatch,Transferência Bancária
+557,Alexia,F,13/10/1987,AC,maria-flor45@example.net,+55 (16) 95222-6301,49646.69,Conversível,Cartão de Débito
+558,Manuella,F,25/04/1969,PI,catarinada-conceicao@example.com,+55 17 95008-7860,18931.56,Sedan,Leasing
+559,Oliver,M,20/12/1987,DF,ana-vitoriafreitas@example.org,+55 73 90719-1016,25395.91,Utilitário,Dinheiro
+560,Isis,F,20/05/1977,AL,moreiranathan@example.net,+55 24 90009 1354,58488.36,Utilitário,Carteira Digital
+561,Natália,F,06/01/1962,BA,pimentaleticia@example.com,+55 (042) 92402-9886,20451.33,Conversível,Pix
+562,Sara,F,18/06/1970,RS,oliveirakaique@example.org,+55 (34) 95390 7907,11977.5,Crossover,Carteira Digital
+563,Gustavo Henrique,M,13/01/1985,PI,marinavasconcelos@example.net,+55 04 96982-0394,41493.03,Coupé,Leasing
+564,Beatriz,F,07/07/2003,PR,isisalves@example.org,+55 (015) 99636-1605,59761.87,Minivan,Boleto Bancário
+565,Luiza,F,24/08/1961,SC,eloaduarte@example.com,+55 10 93900 7355,47191.81,Crossover,Cartão de Crédito
+566,Francisco,M,16/10/1990,SE,isabelaribeiro@example.org,+55 (89) 99459-2383,48103.47,Compacto,Financiamento
+567,Sarah,F,17/12/1955,RN,pbrito@example.com,+55 (70) 9 5443-0632,59054.13,Coupé,Transferência Bancária
+568,Lucca,M,29/04/1997,RS,mathias90@example.net,+55 21 99244 8320,20071.35,Picape,Cartão de Crédito
+569,Ana Lívia,F,23/02/1997,AP,tcosta@example.org,+55 64 97519-6324,10291.46,SUV,Boleto Bancário
+570,Guilherme,M,12/07/1981,AL,rebecamoura@example.net,+55 14 99854 8774,9163.12,Van,Financiamento
+571,Lucca,M,06/11/1969,MG,nnovaes@example.net,+55 74 96519 7639,33313.33,Crossover,Pix
+572,Zoe,F,08/09/1983,PE,anthony55@example.net,+55 (49) 94808-2456,36111.23,Compacto,Dinheiro
+573,Maya,F,22/11/2003,AM,fnovaes@example.org,+55 42 92938 0117,9832.26,Médio,Pix
+574,Vitor,M,13/10/1981,TO,jose-miguel79@example.com,+55 48 9 8107-6119,12404.96,Sedan,Leasing
+575,Lavínia,F,01/10/1949,PI,gcarvalho@example.net,+55 (68) 98609-9528,15628.72,Esportivo,Cartão de Crédito
+576,Hellena,F,27/05/1956,AC,ana-vitoriaaraujo@example.com,+55 20 97021 4617,29642.16,Sedan,Leasing
+577,Arthur,M,31/08/1978,MT,yramos@example.com,+55 (062) 91406 6917,49579.62,Picape,Transferência Bancária
+578,Isabel,F,05/04/1972,AL,dsouza@example.com,+55 (77) 97291-8323,41410.75,Híbrido,Pix
+579,Ravi,M,06/04/1978,AM,duarteemanuella@example.net,+55 (098) 97841 7439,34051.38,Conversível,Dinheiro
+580,Vitor Hugo,M,14/09/1976,RR,bruno45@example.org,+55 (45) 93434 2447,46450.6,Crossover,Leasing
+581,Emanuel,M,08/04/1961,RJ,pmendes@example.org,+55 (072) 91924-9643,57822.13,Coupé,Cartão de Crédito
+582,Lorenzo,M,11/10/1957,CE,luisa36@example.com,+55 (008) 99192-3128,6313.39,Elétrico,Cartão de Débito
+583,Bento,M,06/11/1994,PA,valentimferreira@example.org,+55 23 9 5366 4827,43011.9,Utilitário,Dinheiro
+584,Sara,F,03/12/1963,RJ,pramos@example.com,+55 30 9 6719 7642,17484.14,Compacto,Dinheiro
+585,Mariah,F,13/12/1965,AP,jose-pedropires@example.org,+55 (048) 99363-2255,56615.8,Off-road,Transferência Bancária
+586,Melissa,F,05/09/1971,ES,barrosana-liz@example.org,+55 (68) 93443 1596,41681.68,Utilitário,Cartão de Débito
+587,Matteo,M,22/12/1966,PR,isaac89@example.org,+55 (097) 96496-5943,16331.53,Van,Cartão de Crédito
+588,Allana,F,21/07/1963,AC,ana-livia45@example.org,+55 (74) 91453 8553,43912.07,Crossover,Boleto Bancário
+589,Laura,F,26/07/1954,MG,caue53@example.org,+55 (085) 97465 9187,53844.6,Sedan,Dinheiro
+590,Gabrielly,F,17/08/2005,RJ,matteovieira@example.com,+55 77 9 4931 3588,27543.88,Minivan,Dinheiro
+591,Yasmin,F,07/07/1959,PB,nogueirarenan@example.com,+55 (22) 91097-7651,6113.55,Luxo,Carteira Digital
+592,Arthur,M,22/02/1986,MS,nina58@example.org,+55 (047) 90555 1750,5003.16,Crossover,Cartão de Débito
+593,Emilly,F,26/07/1968,MG,kvasconcelos@example.org,+55 (47) 9 2675-6055,55173.47,Médio,Carteira Digital
+594,Henry Gabriel,M,25/05/1970,AC,pedro-miguelnogueira@example.net,+55 72 92905 0075,9483.28,Médio,Cartão de Crédito
+595,Gael Henrique,M,19/12/1999,MA,lucca80@example.net,+55 (060) 94842-2339,18684.31,SUV,Leasing
+596,Maria Isis,F,27/06/1962,BA,helenasiqueira@example.org,+55 09 9 6965 5624,39190.04,Conversível,Carteira Digital
+597,José Pedro,M,08/04/1958,PR,ana-livia03@example.net,+55 (98) 94045-6252,26461.86,Hatch,Financiamento
+598,Maria,F,13/07/1946,AM,lucas42@example.net,+55 (11) 9 0899-7022,19576.71,Hatch,Boleto Bancário
+599,Manuella,F,10/02/1973,AC,vitor71@example.net,+55 (55) 95632 7505,11839.6,Hatch,Cartão de Crédito
+600,Samuel,M,23/11/1986,AM,gael57@example.com,+55 (091) 90541 2844,40882.14,Elétrico,Financiamento
+601,Beatriz,F,09/09/1999,MS,npimenta@example.net,+55 38 95108 8341,56322.16,Utilitário,Leasing
+602,Pedro Henrique,M,13/10/1961,PA,fernanda40@example.net,+55 (073) 98207-8510,44846.47,Utilitário,Carteira Digital
+603,Juan,M,17/02/1967,AP,azevedofernando@example.com,+55 32 9 7218-0924,50041.81,Conversível,Boleto Bancário
+604,Ana Cecília,F,13/04/1971,GO,umartins@example.org,+55 66 9 5670 5214,19159.65,Hatch,Boleto Bancário
+605,Bernardo,M,06/09/1984,MT,kmachado@example.com,+55 77 9 1317 5615,17697.12,Van,Boleto Bancário
+606,Cauã,M,30/07/1963,GO,salmeida@example.com,+55 (02) 93171 4822,39077.48,Médio,Financiamento
+607,Pedro Lucas,M,01/05/1967,SP,noah34@example.com,+55 (93) 9 5989-2244,41424.66,Minivan,Cartão de Débito
+608,Augusto,M,17/10/1955,ES,viniciusmelo@example.net,+55 60 9 0731 9201,20360.52,Médio,Cartão de Débito
+609,Ana Laura,F,28/06/1992,ES,silveiraisaac@example.net,+55 (049) 97177 9575,29918.16,Compacto,Cartão de Crédito
+610,Gabrielly,F,20/09/1956,GO,maria-helenamendes@example.net,+55 61 9 0565 3141,21392.19,Picape,Transferência Bancária
+611,Theo,M,25/08/1978,RS,luiz-fernandopinto@example.com,+55 (003) 93415-7927,31617.88,Coupé,Financiamento
+612,Fernanda,F,26/09/1946,PE,henry-gabrielpereira@example.com,+55 86 96077 5389,20145.98,Sedan,Leasing
+613,Miguel,M,12/08/1976,RJ,pietro39@example.org,+55 (02) 90071-4248,56801.09,Off-road,Dinheiro
+614,Luiza,F,05/04/1964,RS,alvesvitor@example.net,+55 03 91128-1510,29157.17,Minivan,Cartão de Crédito
+615,Melina,F,15/03/1999,ES,alicia74@example.org,+55 23 9 4245-0805,25932.18,SUV,Dinheiro
+616,Matheus,M,15/11/1965,AM,esther85@example.com,+55 13 9 7762-5896,35856.12,Conversível,Leasing
+617,Maya,F,07/10/1985,SC,dguerra@example.com,+55 (89) 9 2934 2986,36086.24,Off-road,Dinheiro
+618,Miguel,M,12/09/1999,ES,ssampaio@example.org,+55 23 98465 0481,28301.25,Compacto,Transferência Bancária
+619,Clara,F,12/12/1974,RN,nogueiraana-laura@example.com,+55 56 9 6399-9408,55078.06,Conversível,Boleto Bancário
+620,Jade,F,11/10/1999,MG,andremelo@example.org,+55 (00) 9 9817 2961,23169.85,Híbrido,Leasing
+621,Vitor Hugo,M,19/09/1966,AC,nogueiraallana@example.com,+55 44 9 5669 3183,35270.53,Picape,Transferência Bancária
+622,Esther,F,19/02/1961,MA,pirestheo@example.com,+55 22 9 7640-5813,7213.65,Crossover,Cartão de Débito
+623,Fernanda,F,17/10/1991,AP,pedro-henriqueduarte@example.net,+55 63 9 4106 2701,43944.93,Off-road,Transferência Bancária
+624,Emanuel,M,13/10/1956,PA,ssantos@example.org,+55 (64) 93260 7798,17929.43,Híbrido,Transferência Bancária
+625,Eloá,F,18/04/1992,BA,arthurcardoso@example.net,+55 (075) 94857-5693,40141.41,Crossover,Financiamento
+626,Felipe,M,28/05/1991,AL,isabelapires@example.com,+55 (07) 94344 1410,14221.74,Compacto,Pix
+627,Pietra,F,23/04/1953,MS,ccardoso@example.net,+55 (20) 9 3928-0377,10528.11,Hatch,Leasing
+628,Dante,M,04/05/1954,BA,brayanmachado@example.org,+55 (026) 96867-8914,36226.15,Van,Cartão de Débito
+629,Alícia,F,04/12/1992,PI,correiadavi-miguel@example.com,+55 (94) 9 5667 1687,42197.18,SUV,Pix
+630,Maria Júlia,F,24/12/1985,SC,tmontenegro@example.net,+55 (014) 96359-3553,9401.46,Minivan,Cartão de Crédito
+631,Bianca,F,11/11/1991,PR,sarah42@example.net,+55 91 9 3586-7249,45312.04,Sedan,Pix
+632,Isadora,F,29/04/2005,PI,pachecoluiz-gustavo@example.org,+55 (039) 99240 7621,59879.54,SUV,Transferência Bancária
+633,Samuel,M,01/04/1973,PE,alvesbianca@example.org,+55 45 91307-0256,9540.88,Híbrido,Carteira Digital
+634,Ravi Lucca,M,18/08/1991,AP,camargocecilia@example.org,+55 48 95241-9543,18232.39,Crossover,Cartão de Crédito
+635,Carlos Eduardo,M,16/08/1969,CE,mateusgarcia@example.org,+55 (064) 90673 2797,10581.13,Compacto,Dinheiro
+636,Mateus,M,13/10/1947,AL,antonio76@example.com,+55 (043) 99951-4598,33209.66,SUV,Cartão de Crédito
+637,Joaquim,M,17/02/1960,PB,icavalcante@example.org,+55 (035) 97545-0209,15804.47,Hatch,Cartão de Débito
+638,Maria Fernanda,F,30/11/1996,SE,maria-isis12@example.com,+55 (034) 94983-9505,8373.11,Compacto,Transferência Bancária
+639,Ísis,F,05/02/1955,BA,fernandada-conceicao@example.org,+55 98 96044-2729,22621.66,Luxo,Cartão de Débito
+640,Maria Isis,F,20/01/1955,SP,barbosaeduardo@example.com,+55 73 93732 3426,50816.6,Sedan,Leasing
+641,Luna,F,05/02/1994,MG,zmacedo@example.org,+55 57 9 5742-8777,40701.43,Médio,Financiamento
+642,Luiz Fernando,M,20/05/1978,TO,maitecosta@example.net,+55 (91) 9 6478 6111,9206.82,Sedan,Pix
+643,Ísis,F,03/01/2005,ES,muriloaragao@example.com,+55 (67) 9 8898 3035,13875.73,Utilitário,Cartão de Crédito
+644,Alice,F,24/04/1976,SE,bento33@example.org,+55 10 99853 9321,8531.39,Minivan,Pix
+645,Matheus,M,25/12/1975,TO,cassianohelena@example.com,+55 (48) 9 7156-3066,50633.96,Hatch,Financiamento
+646,Maria Laura,F,17/02/1964,MG,nogueiramaria-liz@example.com,+55 (69) 91433-3243,27108.64,Esportivo,Carteira Digital
+647,Joana,F,02/12/1958,AM,gbarbosa@example.com,+55 53 9 3347 2445,57584.24,Híbrido,Transferência Bancária
+648,Pedro Henrique,M,10/02/1947,RS,lunnavieira@example.org,+55 58 96423-8886,49503.76,Off-road,Boleto Bancário
+649,Antony,M,18/09/2001,GO,gustavo58@example.com,+55 (81) 96557-0250,53087.41,Minivan,Carteira Digital
+650,Cecília,F,06/10/1978,BA,aalves@example.net,+55 (075) 97547 2418,20228.13,Sedan,Dinheiro
+651,Henry,M,25/07/1954,MT,hmoraes@example.com,+55 (77) 9 2123 4085,6531.53,Utilitário,Dinheiro
+652,Brayan,M,03/07/1994,PI,mathias03@example.com,+55 34 9 9829 6645,41339.46,Esportivo,Leasing
+653,Matteo,M,11/04/1954,DF,da-rochathomas@example.net,+55 (34) 95661 9053,9090.14,Médio,Transferência Bancária
+654,Isis,F,20/07/1964,PI,mendoncabeatriz@example.com,+55 (50) 93146 8945,53155.95,Sedan,Cartão de Débito
+655,Luísa,F,19/05/1980,PA,ravimoraes@example.org,+55 18 94716 6576,44168.17,Compacto,Cartão de Crédito
+656,Pietra,F,08/02/1998,MS,jade12@example.org,+55 (040) 91380-1539,11923.89,Médio,Carteira Digital
+657,Levi,M,11/08/1992,MG,da-rochaevelyn@example.com,+55 (83) 90458 9326,41692.35,Van,Cartão de Crédito
+658,João Vitor,M,12/12/1953,SP,vda-paz@example.org,+55 (14) 96953-0148,52760.01,Elétrico,Transferência Bancária
+659,Helena,F,23/06/1957,PR,rezendepedro-henrique@example.org,+55 98 95247 9412,57107.36,Crossover,Transferência Bancária
+660,Larissa,F,06/10/2006,SE,enzo-gabrielmelo@example.net,+55 37 9 4388-4342,47720.24,Esportivo,Pix
+661,Camila,F,13/05/1947,RN,maria-sophia51@example.net,+55 (071) 95182-9784,24064.99,Esportivo,Carteira Digital
+662,Daniela,F,30/03/1980,MG,maria-luizavasconcelos@example.org,+55 97 92373-0668,12787.08,Luxo,Carteira Digital
+663,Isabella,F,26/05/1954,MG,xlopes@example.net,+55 57 9 2756 8355,28838.66,Minivan,Leasing
+664,Cauê,M,25/06/1952,RR,pachecoheloisa@example.net,+55 (67) 9 7437-5569,26995.98,Esportivo,Boleto Bancário
+665,Antônio,M,16/08/1985,MT,nascimentojoao-guilherme@example.net,+55 (00) 9 2219-3254,54560.97,Coupé,Carteira Digital
+666,Benjamin,M,07/02/1967,ES,eduardamonteiro@example.net,+55 (45) 9 3399-8181,8848.48,Luxo,Boleto Bancário
+667,Eloah,F,01/11/1999,AM,hellenaabreu@example.net,+55 64 9 4507 0792,18634.06,Elétrico,Carteira Digital
+668,Gabriela,F,30/07/1969,RO,ferreiramaysa@example.com,+55 53 99459-1920,11908.65,Off-road,Carteira Digital
+669,Beatriz,F,28/06/1965,ES,mendoncahenry@example.net,+55 (059) 95551-4213,46878.34,Off-road,Dinheiro
+670,Yago,M,04/04/1964,SE,amandasousa@example.net,+55 38 91318 9751,47724.52,Off-road,Cartão de Crédito
+671,Maria Isis,F,08/05/1986,RJ,agatha66@example.net,+55 (96) 9 3738 3284,12102.0,Conversível,Leasing
+672,Ana Júlia,F,20/06/1965,AL,murilo82@example.com,+55 54 99228-3440,55780.38,Coupé,Pix
+673,Maria Cecília,F,15/07/1963,SP,nicolejesus@example.com,+55 (80) 9 8883 9550,13427.93,Híbrido,Cartão de Débito
+674,Henry,M,30/06/1950,PA,antonella76@example.org,+55 (090) 92524 3626,13706.4,Compacto,Transferência Bancária
+675,Kamilly,F,01/06/1988,AC,xvargas@example.com,+55 (25) 9 1043 1210,31303.53,Picape,Boleto Bancário
+676,Maria Eduarda,F,24/03/1969,AP,kevinduarte@example.org,+55 (76) 9 4230-6838,21632.03,Esportivo,Transferência Bancária
+677,Anthony Gabriel,M,04/03/1962,MS,sousaraul@example.com,+55 (25) 97562 7285,56156.38,Médio,Leasing
+678,Elisa,F,18/01/1952,DF,paulo56@example.org,+55 (05) 99211 3543,18170.84,Híbrido,Cartão de Crédito
+679,Bárbara,F,25/11/2004,AC,ferreiranicolas@example.net,+55 (04) 94082-7685,7669.14,SUV,Cartão de Débito
+680,Isabel,F,22/06/1966,ES,cassianothales@example.net,+55 (35) 9 9239-1482,37037.5,Híbrido,Pix
+681,Asafe,M,21/11/1974,PB,brunomonteiro@example.org,+55 (80) 92898-3443,44339.25,Elétrico,Pix
+682,Giovanna,F,30/03/1995,AM,britoheloisa@example.org,+55 41 9 0328-1676,56500.99,Off-road,Cartão de Débito
+683,Benicio,M,02/02/1947,SC,maria-luiza87@example.org,+55 21 99031 1653,28754.37,Compacto,Dinheiro
+684,Pedro,M,19/12/1974,AC,valentina77@example.org,+55 97 9 8585 2360,14949.61,Híbrido,Cartão de Débito
+685,Thomas,M,02/02/1950,SE,claracosta@example.com,+55 (49) 91129-2650,51275.89,Utilitário,Leasing
+686,Asafe,M,19/02/1964,PR,aragaogael@example.org,+55 (063) 91735-7353,50905.08,Híbrido,Transferência Bancária
+687,Yasmin,F,26/02/1950,MG,garciabruna@example.com,+55 (75) 97965 5800,25133.12,Médio,Cartão de Crédito
+688,Carolina,F,23/11/1964,PA,isabellaramos@example.org,+55 27 94183 9218,47424.04,Sedan,Boleto Bancário
+689,Benjamin,M,11/08/1962,BA,moreirarafael@example.net,+55 (028) 95133 8797,43444.49,Van,Pix
+690,Ana Laura,F,07/05/1975,MS,maria-juliamoraes@example.org,+55 (33) 95368 9315,37918.71,Compacto,Cartão de Crédito
+691,Lucas Gabriel,M,10/10/1973,GO,mateuscasa-grande@example.net,+55 (035) 92452-0816,59868.14,Minivan,Dinheiro
+692,Isabella,F,23/09/1996,AC,josuealbuquerque@example.com,+55 38 90719-0335,53309.1,Utilitário,Cartão de Débito
+693,Lucca,M,29/03/1945,AM,mendoncasarah@example.com,+55 (016) 94737-9845,58715.12,Médio,Boleto Bancário
+694,Hellena,F,14/02/1969,RS,nathan66@example.net,+55 (68) 91375-9492,5054.26,Hatch,Transferência Bancária
+695,João Vitor,M,13/05/1960,PE,aparecidagabriela@example.net,+55 44 91333-7093,19740.32,Coupé,Pix
+696,Emilly,F,02/05/1987,DF,almeidaana-julia@example.com,+55 75 9 1293 2417,52644.72,Crossover,Leasing
+697,Fernanda,F,12/11/1980,RJ,ravi-luccaleao@example.net,+55 (29) 95875-4673,25937.36,Conversível,Dinheiro
+698,Mateus,M,29/12/1948,PB,sampaioolivia@example.net,+55 (085) 98326-2209,26120.75,Híbrido,Cartão de Crédito
+699,Joaquim,M,22/11/1995,RO,pireslevi@example.org,+55 (53) 9 5193-7342,11794.33,Utilitário,Financiamento
+700,Gael Henrique,M,08/11/2000,SP,olivia45@example.com,+55 (15) 92637 6205,11228.51,Luxo,Pix
+701,Bruna,F,18/02/2004,MT,isabel36@example.net,+55 (30) 99609 2860,7610.43,Esportivo,Transferência Bancária
+702,Marina,F,08/07/1990,RR,marcela48@example.com,+55 88 94866 3057,13815.38,Crossover,Cartão de Débito
+703,Maria Alice,F,24/11/1983,PR,ccavalcante@example.net,+55 (073) 92206-3358,37562.39,Médio,Boleto Bancário
+704,Sofia,F,21/10/1978,CE,ssiqueira@example.net,+55 24 9 3060-4893,23008.82,Sedan,Transferência Bancária
+705,Alexia,F,04/11/1949,PA,pimentaguilherme@example.net,+55 (056) 93138-9352,52625.15,Utilitário,Financiamento
+706,Maya,F,06/10/1976,PB,luana20@example.com,+55 (13) 9 7387-3309,39637.17,Off-road,Leasing
+707,Aurora,F,09/01/1963,PR,machadoraquel@example.com,+55 44 94333 7014,29840.0,SUV,Pix
+708,Marina,F,22/12/2006,RJ,olivercosta@example.net,+55 71 98777 9479,57805.58,Esportivo,Cartão de Crédito
+709,Bernardo,M,07/02/1987,CE,gael30@example.net,+55 (71) 90301 3408,58252.04,Médio,Transferência Bancária
+710,Antônio,M,14/04/1999,MS,svieira@example.com,+55 92 9 8529-5635,26596.38,Van,Carteira Digital
+711,João Pedro,M,23/09/1999,ES,gaelfarias@example.net,+55 (099) 97619-8988,5509.09,Luxo,Pix
+712,Letícia,F,28/07/2000,AC,heloisa65@example.net,+55 (40) 91959-5865,27447.34,Picape,Cartão de Débito
+713,Maria Eduarda,F,05/02/1979,RJ,theopacheco@example.com,+55 42 91271 4580,59316.98,SUV,Leasing
+714,Evelyn,F,12/03/1964,ES,eduardo50@example.net,+55 26 9 8303 0041,39504.06,Sedan,Boleto Bancário
+715,Sofia,F,17/10/1985,PR,theoribeiro@example.org,+55 33 98127 6351,29715.92,Minivan,Carteira Digital
+716,Sophia,F,23/04/1951,SP,pedro-lucas39@example.com,+55 (31) 92188 8661,56233.71,Conversível,Cartão de Crédito
+717,Renan,M,04/05/1946,GO,elisafogaca@example.net,+55 31 9 0312 4514,32779.07,Off-road,Transferência Bancária
+718,Maria Fernanda,F,27/05/1958,SP,yanvieira@example.net,+55 (076) 96752-7382,5050.51,Compacto,Carteira Digital
+719,Rebeca,F,28/11/1960,PR,esilveira@example.org,+55 (97) 9 4096 1647,32840.28,Off-road,Boleto Bancário
+720,Maria Julia,F,27/07/1988,CE,cauevasconcelos@example.net,+55 44 9 6697 7418,22687.73,Utilitário,Cartão de Débito
+721,Heitor,M,20/10/1969,SE,ana-luizamelo@example.org,+55 (84) 97197-3350,21893.34,Sedan,Boleto Bancário
+722,Ravi,M,16/11/1972,PI,danielda-mata@example.net,+55 (83) 9 8411-2506,46421.03,Van,Boleto Bancário
+723,Samuel,M,11/01/1975,PE,luizaoliveira@example.org,+55 13 9 7630-1073,39196.56,Coupé,Boleto Bancário
+724,Diogo,M,13/04/1962,AL,bdias@example.com,+55 06 93259-0354,34744.09,Luxo,Dinheiro
+725,Pedro,M,05/09/1996,TO,pedro-henriquefogaca@example.net,+55 (060) 91883-4602,39967.57,Utilitário,Cartão de Débito
+726,Luna,F,20/07/1993,GO,silveiraleandro@example.net,+55 (23) 9 6789 3962,20051.86,Picape,Financiamento
+727,Amanda,F,16/04/1977,MA,moraesmatheus@example.net,+55 (86) 9 3969 0343,41305.61,Conversível,Carteira Digital
+728,Samuel,M,15/04/1951,RJ,freitasleandro@example.net,+55 (017) 97669-7805,24777.12,Coupé,Boleto Bancário
+729,Manuella,F,30/07/1994,MT,biancada-cruz@example.com,+55 (15) 9 4755 3778,22957.61,Van,Pix
+730,Luna,F,02/01/1949,SE,kevinmarques@example.com,+55 39 9 4087-2949,7028.28,Minivan,Dinheiro
+731,Calebe,M,30/08/1976,DF,arthur46@example.com,+55 (55) 9 8638 1763,27234.28,Off-road,Financiamento
+732,Lavínia,F,07/07/1963,SE,raquelda-mota@example.com,+55 38 9 1664 5595,23500.83,Minivan,Transferência Bancária
+733,Bento,M,31/03/1967,SE,joanada-rosa@example.org,+55 44 9 5195 9416,18590.89,Médio,Carteira Digital
+734,Maria Liz,F,07/12/1971,ES,cunhamiguel@example.org,+55 54 97863-4225,13112.14,Sedan,Financiamento
+735,Benicio,M,05/09/1984,AC,oliverrios@example.net,+55 42 9 8146-7536,14917.01,Coupé,Carteira Digital
+736,Emanuel,M,01/04/1973,GO,lara38@example.net,+55 (005) 90866-2006,29587.63,Minivan,Pix
+737,Maitê,F,02/11/1964,SC,pietrasiqueira@example.org,+55 (24) 9 2616-6466,27224.15,Coupé,Boleto Bancário
+738,Lucas,M,05/06/1973,PI,cirinocaroline@example.com,+55 35 9 5399 0102,38423.66,Médio,Leasing
+739,Ana,F,02/01/1977,PA,gabrielly76@example.net,+55 35 95127-1520,6236.96,Coupé,Financiamento
+740,Bruna,F,07/02/1970,MS,mariacavalcanti@example.org,+55 80 94409 5029,8478.18,Compacto,Pix
+741,Bárbara,F,15/04/1985,PR,rezendececilia@example.org,+55 (08) 9 9099 3621,44257.68,Híbrido,Carteira Digital
+742,Otto,M,02/11/1946,CE,pastorstephany@example.net,+55 59 9 0222 4970,56267.07,Van,Carteira Digital
+743,Ana Cecília,F,07/08/1995,CE,davi-lucca87@example.com,+55 75 99275 8931,59076.63,Híbrido,Pix
+744,Lunna,F,02/09/1996,AM,psantos@example.com,+55 (095) 92633 0775,50383.93,Compacto,Dinheiro
+745,Beatriz,F,20/06/1953,CE,sarah02@example.com,+55 (26) 97143 6017,57654.0,Híbrido,Dinheiro
+746,Luara,F,12/05/1966,AM,dbarbosa@example.org,+55 (65) 96799 8796,46259.11,Crossover,Transferência Bancária
+747,Luan,M,22/06/1989,PA,wguerra@example.net,+55 40 9 9645 3494,12474.24,Off-road,Leasing
+748,Apollo,M,14/09/1992,DF,oliver26@example.net,+55 83 9 3577 4213,38807.76,Hatch,Dinheiro
+749,Ana,F,09/02/1978,RO,fernanda83@example.net,+55 38 9 7106 5775,17788.61,Utilitário,Pix
+750,Asafe,M,20/05/1959,AM,knascimento@example.com,+55 26 9 1556-2228,7922.01,Utilitário,Boleto Bancário
+751,Vitória,F,28/05/1964,SP,giovanna29@example.com,+55 (80) 99007-2265,14233.09,Sedan,Dinheiro
+752,Oliver,M,15/07/1976,MT,nascimentoana-vitoria@example.net,+55 00 96950-5746,41211.65,Minivan,Cartão de Débito
+753,Nathan,M,26/01/2007,PR,riostheo@example.org,+55 25 90693-0363,47342.92,Esportivo,Financiamento
+754,Davi Miguel,M,02/03/1979,MS,samuelda-cunha@example.com,+55 (72) 9 1654-0227,15588.15,Elétrico,Dinheiro
+755,Emanuella,F,04/05/1977,RN,andrademaria-luiza@example.org,+55 (63) 9 3190 1364,18277.94,Elétrico,Boleto Bancário
+756,Rafael,M,20/12/1996,PR,ana-clarabrito@example.net,+55 (50) 9 6095-4321,39939.57,Utilitário,Carteira Digital
+757,Evelyn,F,05/05/1963,CE,noahpinto@example.net,+55 09 9 2696-6874,18319.1,Crossover,Boleto Bancário
+758,Hadassa,F,12/12/1973,AM,valentim57@example.com,+55 (69) 93409 9413,22316.0,Médio,Pix
+759,Jade,F,10/01/1982,AP,zguerra@example.com,+55 (070) 98575-6710,56242.34,Elétrico,Cartão de Crédito
+760,Maria Júlia,F,09/04/1992,BA,bdias@example.com,+55 18 9 4288-8842,56156.78,SUV,Carteira Digital
+761,Mariana,F,17/01/1983,GO,vinicius17@example.org,+55 (46) 9 6585-6465,43232.83,Esportivo,Dinheiro
+762,Heitor,M,30/12/1961,SE,josepacheco@example.com,+55 (86) 9 0653 2240,31046.09,Off-road,Pix
+763,Vitor Hugo,M,23/07/1982,MA,carvalhorafael@example.net,+55 (38) 9 8639-5938,24835.09,Médio,Boleto Bancário
+764,Isis,F,19/09/1986,RN,enzo-gabriel61@example.org,+55 (29) 9 9964 8984,11162.23,Picape,Financiamento
+765,Ana Julia,F,26/10/1951,RO,bcaldeira@example.com,+55 65 90301 1031,20830.77,Coupé,Boleto Bancário
+766,Eduarda,F,02/12/1995,RJ,teixeiradavi-lucas@example.org,+55 (092) 91824-2046,44814.17,Minivan,Financiamento
+767,Felipe,M,03/05/1964,RO,da-rosamaria-julia@example.com,+55 (89) 9 7120-4559,30366.89,Picape,Transferência Bancária
+768,Antonella,F,09/04/1945,GO,salesemilly@example.net,+55 70 98539 0855,49993.68,Híbrido,Financiamento
+769,Juliana,F,04/10/1955,GO,valentinasampaio@example.org,+55 (67) 90350 5493,9045.27,Utilitário,Pix
+770,Bruno,M,13/01/1989,CE,isaacdas-neves@example.net,+55 (87) 91873 1406,35598.38,Luxo,Cartão de Débito
+771,Luiz Gustavo,M,11/09/1969,TO,raelsa@example.net,+55 (034) 96921-8337,50975.29,Hatch,Transferência Bancária
+772,Pietra,F,03/05/1988,RO,julia94@example.com,+55 (091) 90806 2195,20490.65,Conversível,Cartão de Débito
+773,João Pedro,M,11/07/1962,GO,ravi-lucca23@example.com,+55 11 92184-2868,29265.25,Esportivo,Cartão de Crédito
+774,Danilo,M,15/10/1953,BA,alvesvitor-hugo@example.org,+55 81 99932 5027,34832.41,Crossover,Leasing
+775,Raul,M,24/04/1989,AP,msa@example.net,+55 (90) 98573-4478,28109.36,SUV,Financiamento
+776,Enrico,M,16/11/1961,MG,joao-pedromarques@example.net,+55 (24) 9 2459 9472,47454.14,Picape,Pix
+777,Asafe,M,18/04/1954,SE,maria-lauranascimento@example.com,+55 (49) 97243-1563,10548.3,Médio,Cartão de Crédito
+778,Lucca,M,01/04/1962,MA,duarteheitor@example.org,+55 (085) 99818-8764,12408.66,Crossover,Carteira Digital
+779,Aylla,F,09/04/2002,GO,pietro33@example.org,+55 (34) 93177-0550,53589.14,Compacto,Dinheiro
+780,Ana Liz,F,21/10/1961,PE,albuquerquejoana@example.com,+55 (37) 9 6393 0517,11092.28,Minivan,Cartão de Débito
+781,Rafael,M,29/12/1974,AL,lucas28@example.org,+55 (73) 95408-3390,11950.64,Hatch,Pix
+782,Raquel,F,25/01/2003,PE,jose-miguelfogaca@example.com,+55 71 90136-6194,52673.77,Coupé,Cartão de Débito
+783,José,M,18/08/1997,MG,tcunha@example.org,+55 98 9 3105-9157,21462.06,Coupé,Cartão de Débito
+784,Maria Vitória,F,14/04/1999,SP,grodrigues@example.net,+55 (13) 9 7455-0173,8928.29,Crossover,Dinheiro
+785,Enrico,M,30/10/1969,SP,mmarques@example.net,+55 (09) 96119 7872,59212.53,Picape,Cartão de Débito
+786,Rodrigo,M,30/05/1958,PI,manuelaporto@example.org,+55 (006) 98007-8789,17413.11,Compacto,Boleto Bancário
+787,Enzo,M,04/10/1952,GO,rezendemaria-julia@example.net,+55 75 98551 3893,59533.71,Esportivo,Leasing
+788,Daniela,F,11/11/2003,RJ,ayla76@example.net,+55 (08) 9 1380-2939,50851.64,Sedan,Dinheiro
+789,Lucas,M,23/06/1983,SE,svieira@example.net,+55 (046) 96104 8770,18165.24,Picape,Cartão de Débito
+790,Antonella,F,25/03/1989,RS,qcaldeira@example.org,+55 (77) 9 9019-2161,46509.46,SUV,Transferência Bancária
+791,Vinícius,M,09/07/1949,MG,hadassapimenta@example.com,+55 (018) 92436-6253,16458.1,Elétrico,Leasing
+792,Cauê,M,09/12/1977,AC,maria-fernandada-rosa@example.org,+55 15 9 4767 6183,47713.81,Médio,Leasing
+793,Arthur Miguel,M,27/11/1979,MA,nda-mota@example.com,+55 (65) 97704 6660,49212.23,Crossover,Boleto Bancário
+794,José,M,22/02/1968,PE,luan63@example.net,+55 97 9 3402 7634,10582.35,Coupé,Financiamento
+795,Lívia,F,06/10/1944,CE,da-matamaria-vitoria@example.com,+55 (009) 97732-0158,23603.23,Sedan,Leasing
+796,Sofia,F,25/11/1979,GO,vmonteiro@example.net,+55 (081) 99353-8078,10677.57,Esportivo,Pix
+797,Matteo,M,18/01/1975,SP,rafaelalima@example.net,+55 (083) 96850-6181,53498.25,Médio,Carteira Digital
+798,Raul,M,11/05/1957,SE,pviana@example.net,+55 (23) 9 0921-0937,5137.94,Minivan,Boleto Bancário
+799,Agatha,F,26/11/1946,AM,rezendeluiz-otavio@example.org,+55 (82) 93363-0068,39285.26,Compacto,Leasing
+800,Théo,M,26/01/1947,RN,ribeirojosue@example.com,+55 (51) 9 8359 9906,43313.8,Conversível,Leasing
+801,Théo,M,24/05/2001,RJ,ealbuquerque@example.org,+55 (092) 99608-3655,54785.04,Crossover,Transferência Bancária
+802,Antônio,M,27/06/1946,RN,azevedodante@example.org,+55 (39) 95519-2672,50231.74,Minivan,Cartão de Débito
+803,Francisco,M,15/08/1966,SC,da-cruzarthur@example.org,+55 (78) 90901-1354,30668.26,Picape,Cartão de Crédito
+804,Marina,F,31/01/2003,RO,portoravy@example.net,+55 94 9 0433-8203,41854.23,Médio,Transferência Bancária
+805,Clara,F,25/06/1971,RS,hrios@example.org,+55 (13) 92424-4959,34375.19,Van,Cartão de Crédito
+806,Cauê,M,27/06/1996,RS,nascimentofernanda@example.com,+55 42 99390 5389,14789.0,Van,Boleto Bancário
+807,Rodrigo,M,29/09/1975,RO,pereiraoliver@example.org,+55 31 96028-3022,49360.1,Sedan,Leasing
+808,Felipe,M,12/04/1978,BA,eduardoda-cunha@example.net,+55 (52) 94104 1411,8152.59,SUV,Dinheiro
+809,Kamilly,F,31/05/2007,AL,allanaguerra@example.net,+55 97 9 3572-9331,51875.18,Utilitário,Carteira Digital
+810,Bárbara,F,04/01/1994,DF,souzaarthur-miguel@example.net,+55 (85) 93227 3591,58213.58,Esportivo,Dinheiro
+811,Daniela,F,04/03/1976,MA,machadoluiz-otavio@example.net,+55 (030) 92223 0521,16850.63,Utilitário,Cartão de Crédito
+812,Marcelo,M,03/04/1974,GO,diasrhavi@example.com,+55 (043) 90550-9749,33223.72,Coupé,Pix
+813,Ana Sophia,F,18/01/1972,SP,siqueiraemanuelly@example.org,+55 (12) 9 5655-3621,23810.18,Picape,Pix
+814,Antonella,F,24/02/1965,AC,amandada-cunha@example.org,+55 40 91505 6607,42497.97,Híbrido,Boleto Bancário
+815,Ryan,M,14/05/1977,MA,henry-gabriel66@example.net,+55 41 93144-7236,22887.08,SUV,Pix
+816,Yago,M,21/02/1984,PR,peixotomaria-sophia@example.com,+55 (054) 93640 9857,38034.33,Conversível,Cartão de Crédito
+817,José,M,09/10/1989,TO,fariasamanda@example.com,+55 53 9 6555 3411,58356.76,Crossover,Financiamento
+818,Liam,M,05/01/2001,SC,ayllaabreu@example.org,+55 21 95348-0724,54045.69,SUV,Financiamento
+819,Vitor Gabriel,M,28/10/1977,PR,juliacasa-grande@example.org,+55 (081) 96384 7187,41020.41,Minivan,Pix
+820,Antony,M,11/07/1996,AM,isa@example.net,+55 (047) 97866 9517,38825.4,Híbrido,Cartão de Crédito
+821,Maria Eduarda,F,07/08/1978,ES,emilly07@example.com,+55 (41) 99288-2833,6500.42,Minivan,Financiamento
+822,João Vitor,M,28/09/1971,ES,varagao@example.net,+55 66 9 4677-1591,43433.88,Elétrico,Boleto Bancário
+823,Vitor,M,08/02/1974,RJ,evelyn03@example.org,+55 (47) 98295-5425,20514.26,Hatch,Transferência Bancária
+824,Kevin,M,19/12/2004,BA,novaisbernardo@example.com,+55 49 9 4416-4643,30818.17,Picape,Leasing
+825,Noah,M,07/12/1987,PR,luiz-otavio29@example.net,+55 11 9 8161-6713,19219.62,Médio,Dinheiro
+826,Danilo,M,21/01/1981,ES,vitor73@example.com,+55 (30) 92902 1870,54761.88,Médio,Dinheiro
+827,Cecilia,F,20/06/1995,MG,umelo@example.net,+55 21 92454-9737,36250.2,Conversível,Boleto Bancário
+828,Ana Vitória,F,30/07/1968,SP,duarterafael@example.org,+55 (10) 93181 7311,25946.9,Off-road,Leasing
+829,Ester,F,11/09/1980,SE,henrique58@example.org,+55 (098) 98150 1442,39799.67,Elétrico,Leasing
+830,Enzo Gabriel,M,18/05/1992,SE,marcelarezende@example.com,+55 (95) 9 0135 0508,48895.16,Off-road,Cartão de Crédito
+831,Vinícius,M,11/05/2007,SC,costacaua@example.org,+55 (083) 96515-4467,46912.28,Compacto,Financiamento
+832,Ísis,F,01/08/1995,MG,qcasa-grande@example.org,+55 (019) 97836 5217,27141.45,Luxo,Financiamento
+833,Isadora,F,15/10/1999,SP,vitor-gabriel15@example.net,+55 (20) 99679 0978,54306.82,Picape,Cartão de Débito
+834,Larissa,F,25/04/1955,RN,levidas-neves@example.org,+55 46 9 0812-8256,19252.66,Sedan,Financiamento
+835,Davi,M,12/11/1974,SC,fmarques@example.com,+55 (040) 94331 2160,45884.05,Esportivo,Boleto Bancário
+836,Breno,M,09/04/2003,ES,yduarte@example.net,+55 (65) 93456 5652,38444.09,Crossover,Financiamento
+837,Ravi,M,21/04/1954,RJ,bernardo77@example.net,+55 54 9 4155 6159,18456.89,Off-road,Pix
+838,Matteo,M,28/07/1991,BA,pimentadavi-miguel@example.net,+55 (066) 91004 4141,57106.54,Utilitário,Boleto Bancário
+839,Anna Liz,F,21/09/1960,GO,tda-mota@example.org,+55 20 9 1163 8359,30432.72,Híbrido,Boleto Bancário
+840,Pietra,F,19/11/1970,PE,marina92@example.com,+55 (047) 94794 6074,36968.13,Híbrido,Leasing
+841,Mirella,F,06/07/1965,MS,matheus08@example.org,+55 51 98616-0359,35516.81,Esportivo,Carteira Digital
+842,Lorenzo,M,20/03/1988,AM,mda-luz@example.com,+55 (67) 9 4676-5640,41764.66,Hatch,Transferência Bancária
+843,João Pedro,M,03/02/1967,RN,fsantos@example.com,+55 (74) 9 4605 3559,59292.68,Híbrido,Pix
+844,Beatriz,F,19/08/1950,SC,maria10@example.org,+55 40 9 1291-3306,17327.62,Híbrido,Leasing
+845,Igor,M,19/03/1953,BA,marcela67@example.com,+55 (68) 93842 6802,32762.74,Híbrido,Dinheiro
+846,Marina,F,30/01/1997,BA,mendesluiza@example.com,+55 65 95845 9941,17431.23,Luxo,Carteira Digital
+847,Bianca,F,15/04/1958,PR,vferreira@example.org,+55 (33) 9 4272 2509,8841.95,Coupé,Cartão de Crédito
+848,Letícia,F,11/01/1945,AL,sarebeca@example.com,+55 85 96058-4785,55744.65,Coupé,Transferência Bancária
+849,Henrique,M,11/04/1968,BA,pimentaalice@example.com,+55 (010) 95114-9090,30602.48,Coupé,Boleto Bancário
+850,Bernardo,M,23/07/1971,TO,isaquemontenegro@example.com,+55 (40) 95096 5309,23471.14,Médio,Leasing
+851,Carlos Eduardo,M,03/11/1962,AL,borgesagatha@example.com,+55 (80) 99090-9419,53265.08,Conversível,Transferência Bancária
+852,Leonardo,M,04/01/1988,RR,fonsecalais@example.org,+55 57 90055-1087,41696.73,SUV,Financiamento
+853,Maria Luísa,F,05/05/1993,PB,macedopedro-henrique@example.com,+55 (46) 97245-6389,18488.87,Crossover,Financiamento
+854,Nina,F,01/12/1964,MG,heitormachado@example.net,+55 (89) 90510 7499,39933.29,Van,Dinheiro
+855,Mathias,M,09/04/1997,TO,ubarros@example.net,+55 (02) 93582-7655,37318.03,Utilitário,Cartão de Crédito
+856,Maitê,F,10/08/2004,MS,lunnacassiano@example.net,+55 28 94061 1122,34422.28,Picape,Transferência Bancária
+857,Melina,F,05/01/1978,TO,isis50@example.com,+55 58 9 9182 6971,42424.31,SUV,Pix
+858,João Miguel,M,19/12/1982,AP,bribeiro@example.net,+55 01 90446-4281,29866.52,Médio,Carteira Digital
+859,Ayla,F,26/12/1954,SE,ravy94@example.org,+55 (94) 96352-5384,14505.84,Compacto,Leasing
+860,Alexia,F,19/11/1989,PE,ygoncalves@example.org,+55 36 9 7186 4140,55094.57,Hatch,Dinheiro
+861,Bruno,M,11/06/1946,DF,heloisa77@example.org,+55 46 9 5321 4658,40375.69,SUV,Transferência Bancária
+862,Luna,F,18/10/1979,PB,kaique83@example.com,+55 (097) 98914 1316,24442.01,Médio,Leasing
+863,Enrico,M,13/05/1961,SE,efarias@example.com,+55 98 9 2754 5904,46838.02,Médio,Transferência Bancária
+864,Fernando,M,05/01/1971,RN,vleao@example.net,+55 (91) 9 6766 6409,40322.32,Híbrido,Cartão de Débito
+865,Pedro Miguel,M,24/05/1988,MA,acastro@example.com,+55 (17) 95889 5912,15434.33,Coupé,Dinheiro
+866,Vitor Gabriel,M,27/06/1968,MT,castropedro@example.org,+55 49 94752-4378,8815.23,Compacto,Financiamento
+867,Isadora,F,28/05/1988,RJ,rafaelamontenegro@example.net,+55 (64) 99488 1586,22099.84,Off-road,Cartão de Débito
+868,Agatha,F,29/12/1946,PB,anna-liz33@example.net,+55 70 95632-2078,37276.53,Coupé,Cartão de Débito
+869,Laís,F,16/01/1980,PE,imoreira@example.com,+55 (099) 98603 7470,17033.84,Hatch,Cartão de Crédito
+870,Arthur Gabriel,M,06/11/1954,TO,raquelcorreia@example.com,+55 (31) 93392-1537,26954.85,Hatch,Carteira Digital
+871,Raquel,F,04/02/1993,SP,isabellyazevedo@example.org,+55 01 93858-9938,45306.6,Compacto,Financiamento
+872,Luiz Fernando,M,28/01/1959,PI,vlopes@example.net,+55 00 98242 1880,9148.64,SUV,Financiamento
+873,Ayla,F,15/02/1971,BA,maria-florcavalcante@example.org,+55 (97) 96510 5763,36379.03,Elétrico,Dinheiro
+874,Ana Vitória,F,25/08/1950,PB,mayamachado@example.net,+55 (065) 98038 0048,9296.73,Off-road,Dinheiro
+875,Ana Sophia,F,24/02/1956,GO,arthur-miguel11@example.com,+55 98 98859 8729,55179.79,Luxo,Carteira Digital
+876,Mariane,F,15/03/1945,PB,yanmoreira@example.com,+55 (76) 90894-4821,5463.33,Utilitário,Pix
+877,Mariah,F,10/01/1988,PI,pintoolivia@example.org,+55 (064) 98377-2481,41707.68,Médio,Dinheiro
+878,Elisa,F,16/01/2000,MS,clariceda-mata@example.com,+55 49 93532 1652,29017.99,Esportivo,Financiamento
+879,João Miguel,M,09/10/1955,MT,rebecasilva@example.net,+55 (02) 96757-6469,22503.87,Compacto,Leasing
+880,Luiz Henrique,M,23/04/1997,SE,agatharamos@example.org,+55 (024) 98868-6270,28029.97,Híbrido,Cartão de Débito
+881,Levi,M,11/06/1997,AP,luiz-otaviocamargo@example.net,+55 (017) 95053 6268,39412.05,Hatch,Cartão de Crédito
+882,Ana Lívia,F,26/07/1960,RS,portoarthur@example.org,+55 (25) 93364 9334,40331.15,Compacto,Cartão de Crédito
+883,Clarice,F,04/04/1982,RO,martinsmanuella@example.com,+55 (63) 9 4587 8612,48631.29,Elétrico,Cartão de Crédito
+884,Valentim,M,17/09/1995,SE,gael-henriquecostela@example.net,+55 (00) 90745-8608,52516.77,Minivan,Pix
+885,Luiz Gustavo,M,29/01/1956,AM,borgesisis@example.net,+55 (042) 95322 1617,9467.22,Hatch,Leasing
+886,Gustavo,M,16/03/1994,PI,castropietro@example.net,+55 44 95254 0533,16043.43,Luxo,Leasing
+887,Ravy,M,15/11/1984,PA,nda-conceicao@example.com,+55 05 9 9188 8146,10467.5,SUV,Financiamento
+888,Eloah,F,07/03/2007,PR,duartebenicio@example.org,+55 (00) 96049-3173,44506.0,Crossover,Dinheiro
+889,Heloísa,F,08/04/1966,MG,dalbuquerque@example.net,+55 69 90363 9813,26029.38,Conversível,Cartão de Crédito
+890,Vitor Hugo,M,24/03/1988,BA,emanuellyduarte@example.com,+55 (093) 97329-4483,8192.97,Elétrico,Boleto Bancário
+891,Clara,F,27/01/1947,AL,rhavi72@example.org,+55 80 90796-9798,21993.91,Híbrido,Cartão de Débito
+892,Mariana,F,04/08/1996,RJ,aragaoenzo-gabriel@example.org,+55 (063) 98228-5643,21297.53,Conversível,Financiamento
+893,Emanuelly,F,15/08/1959,MA,maria-vitoria18@example.net,+55 (098) 97726-1040,59128.85,Luxo,Cartão de Débito
+894,Gabrielly,F,21/01/1969,PE,jade80@example.org,+55 (92) 91655 6329,22891.48,Coupé,Boleto Bancário
+895,Marcos Vinicius,M,20/12/1973,MT,dlima@example.com,+55 (92) 9 0945 9768,23046.77,Elétrico,Boleto Bancário
+896,Maysa,F,20/04/1998,MS,vnunes@example.net,+55 (83) 9 5820-3787,20513.98,Elétrico,Cartão de Crédito
+897,Yasmin,F,17/03/1982,AP,barbosamaria-laura@example.org,+55 37 9 0988-8367,24232.39,Van,Carteira Digital
+898,Alana,F,12/09/1978,MA,lribeiro@example.net,+55 (60) 9 5502 7375,5701.3,SUV,Dinheiro
+899,João Felipe,M,26/03/1959,SE,sampaioluana@example.net,+55 (012) 97497-0541,5588.38,SUV,Transferência Bancária
+900,Eduarda,F,20/08/1999,GO,das-nevesnina@example.com,+55 (093) 92995-4913,6417.15,Van,Leasing
+901,Lorenzo,M,13/07/1986,MT,eloalopes@example.org,+55 (12) 9 3809 5909,52198.96,SUV,Financiamento
+902,Davi Luiz,M,20/08/1971,MT,ottorodrigues@example.com,+55 31 9 2761-6884,22979.3,SUV,Pix
+903,Sabrina,F,30/09/1992,PR,tcaldeira@example.com,+55 04 9 2264 5671,24580.82,Utilitário,Dinheiro
+904,Thales,M,03/06/1979,MA,lais77@example.org,+55 (03) 9 1305 8258,56555.69,Picape,Pix
+905,Cecília,F,27/10/1955,PE,emanuellyalbuquerque@example.com,+55 (04) 95069-4745,44619.6,Esportivo,Cartão de Crédito
+906,Kaique,M,06/06/1993,ES,lopesleandro@example.org,+55 89 9 6469 7282,9392.37,Off-road,Financiamento
+907,Maria Luiza,F,08/02/1953,PI,gomesisaque@example.net,+55 64 9 6300-8432,31716.53,Coupé,Pix
+908,Carolina,F,18/07/1952,SC,danilo33@example.com,+55 (82) 9 9765 9505,55026.92,Elétrico,Cartão de Débito
+909,Dom,M,30/10/1947,GO,qbrito@example.org,+55 (00) 94671-8605,7794.65,Crossover,Boleto Bancário
+910,Arthur Miguel,M,03/07/1982,RR,rhavinovaes@example.com,+55 (17) 94976-6241,5208.46,Médio,Leasing
+911,Ana Carolina,F,03/07/1949,PR,kfarias@example.com,+55 13 9 5925 3945,55234.25,Hatch,Pix
+912,Maitê,F,21/07/1949,PE,emanuelandrade@example.net,+55 (57) 95962-0774,24474.4,Off-road,Financiamento
+913,Vinícius,M,26/07/1979,TO,isisfernandes@example.org,+55 (73) 91465 8477,13007.02,Elétrico,Transferência Bancária
+914,Isabel,F,15/01/1996,PA,francisco51@example.com,+55 (03) 9 4222 2970,18406.42,Minivan,Dinheiro
+915,Arthur,M,15/02/1991,PI,mpinto@example.com,+55 (079) 97679-9973,33574.83,Minivan,Cartão de Débito
+916,Ana Carolina,F,26/05/1978,RR,tpereira@example.net,+55 (016) 96821 4578,8000.04,Minivan,Transferência Bancária
+917,João Guilherme,M,25/01/1957,MT,bsampaio@example.com,+55 (20) 9 8940 9898,26884.9,SUV,Boleto Bancário
+918,Davi,M,21/02/1945,CE,almeidaagatha@example.org,+55 (79) 9 5220-6569,48112.91,Compacto,Boleto Bancário
+919,Lara,F,15/12/1986,PI,lpastor@example.com,+55 82 9 0344 0286,49252.91,Compacto,Leasing
+920,Murilo,M,06/10/1984,PI,ypinto@example.org,+55 17 99462-8745,26535.4,Crossover,Financiamento
+921,Caroline,F,14/11/1958,MT,enzoda-cunha@example.com,+55 (09) 9 2837 8948,13314.33,SUV,Boleto Bancário
+922,Sophie,F,09/07/1982,MT,salesbento@example.com,+55 (26) 95967 6465,10584.9,Off-road,Leasing
+923,Alice,F,05/04/2001,AC,camaraluiza@example.net,+55 57 9 3971-9188,17173.54,Coupé,Leasing
+924,Sarah,F,29/08/2005,AP,britocarolina@example.net,+55 98 90121-1772,7975.49,Off-road,Financiamento
+925,Joana,F,06/12/1955,AL,marquesemanuel@example.com,+55 77 90904 4200,7425.96,Hatch,Boleto Bancário
+926,Ana Vitória,F,17/04/1969,AM,oliviacavalcante@example.org,+55 (19) 90635 2779,27789.71,Conversível,Boleto Bancário
+927,Thiago,M,02/03/1979,MS,mariah93@example.org,+55 26 96543 4041,32804.54,Médio,Financiamento
+928,Maya,F,11/08/1972,TO,maria-lizteixeira@example.net,+55 (94) 9 7829 5325,9089.63,Sedan,Cartão de Débito
+929,Vinicius,M,16/05/1994,BA,luiz-fernandonovaes@example.org,+55 82 98939 7600,19895.73,Sedan,Pix
+930,Gustavo Henrique,M,04/05/2000,MT,camilada-rocha@example.com,+55 47 9 1710 8251,52634.25,Utilitário,Transferência Bancária
+931,João Vitor,M,09/04/1999,AC,fmoura@example.net,+55 (67) 9 2128 3725,18278.94,SUV,Financiamento
+932,Larissa,F,16/09/2005,RO,muriloaparecida@example.org,+55 (02) 9 6143 5863,6376.32,Sedan,Financiamento
+933,Yuri,M,24/05/1997,TO,larapacheco@example.net,+55 (82) 9 2217 8771,54350.81,Esportivo,Carteira Digital
+934,João Felipe,M,07/02/2001,ES,das-nevesjosue@example.org,+55 71 9 6076-8737,27599.4,Sedan,Dinheiro
+935,Theo,M,03/08/2004,CE,vpinto@example.net,+55 (27) 95120 4025,39038.63,Compacto,Financiamento
+936,Cecília,F,16/06/1956,SE,cavalcantetheo@example.net,+55 61 9 4528-4286,6395.86,Hatch,Transferência Bancária
+937,Eloá,F,08/03/1952,AC,apollo47@example.org,+55 (011) 92825-0191,27680.73,SUV,Cartão de Débito
+938,Francisco,M,08/08/2000,RR,carolineazevedo@example.com,+55 (00) 95721 5286,31679.95,Médio,Pix
+939,Daniel,M,26/12/1973,GO,apollo26@example.net,+55 (057) 96546-2049,46507.63,Esportivo,Pix
+940,João Miguel,M,14/02/1957,CE,samuel19@example.org,+55 (84) 98290 5771,20424.13,Utilitário,Cartão de Débito
+941,Carolina,F,19/09/1979,RO,jcaldeira@example.com,+55 (20) 92863-4851,12930.39,Médio,Boleto Bancário
+942,Olívia,F,05/08/1957,MA,isis97@example.com,+55 27 9 9445-8278,36867.71,Coupé,Transferência Bancária
+943,Hellena,F,03/05/1990,PR,machadoerick@example.net,+55 41 9 8881-3937,17418.85,Utilitário,Boleto Bancário
+944,Guilherme,M,28/12/1977,PA,fpereira@example.org,+55 (46) 94897 0490,10014.09,Híbrido,Cartão de Crédito
+945,Benício,M,07/07/2002,AL,milenanogueira@example.com,+55 (43) 96397-2064,37186.51,Médio,Boleto Bancário
+946,Ana Beatriz,F,07/06/1970,RJ,alvesthales@example.net,+55 (24) 99326-1678,10787.27,SUV,Cartão de Crédito
+947,Theo,M,05/07/1947,PA,joanaguerra@example.org,+55 28 9 6939-0435,20618.72,Elétrico,Pix
+948,Nicolas,M,31/08/1952,MT,heloisa98@example.net,+55 21 9 9962 3580,51351.38,Híbrido,Cartão de Débito
+949,Oliver,M,11/01/1972,RN,esterduarte@example.org,+55 (068) 95368 7149,53704.07,Médio,Carteira Digital
+950,Léo,M,12/12/1990,ES,hda-luz@example.org,+55 37 9 0499-5780,45371.37,Crossover,Boleto Bancário
+951,Kamilly,F,04/12/1944,AC,heloisaaragao@example.org,+55 07 9 9453 8626,53160.57,Coupé,Leasing
+952,Hellena,F,04/07/1996,GO,antoniocardoso@example.com,+55 (95) 9 7085 7434,57594.24,Compacto,Financiamento
+953,Clarice,F,24/10/1981,RN,qcavalcante@example.net,+55 (17) 97729 4609,32519.61,Off-road,Financiamento
+954,Guilherme,M,08/05/1996,MA,mariapastor@example.org,+55 94 93278 1068,12893.06,Crossover,Cartão de Crédito
+955,Pedro Henrique,M,17/07/2000,BA,manuelacavalcante@example.net,+55 (77) 9 5571-0455,7861.88,SUV,Financiamento
+956,Benjamim,M,28/01/1963,BA,maria-helena69@example.net,+55 31 9 9863-7781,22023.49,Médio,Dinheiro
+957,Maria Isis,F,28/01/1946,SE,giovannavieira@example.org,+55 56 9 8145-9804,41688.0,Conversível,Leasing
+958,Bento,M,01/02/1955,AM,cardosomaria-liz@example.net,+55 45 9 7490 5787,49188.22,Sedan,Leasing
+959,Giovanna,F,19/12/1959,MT,teixeiraesther@example.net,+55 (71) 9 0066-6783,36592.45,Luxo,Cartão de Débito
+960,Elisa,F,17/04/1970,AP,da-luztheo@example.com,+55 (80) 9 3705-9791,11488.91,Sedan,Boleto Bancário
+961,Henrique,M,21/05/1983,AP,miguelnogueira@example.org,+55 (066) 99870-7851,38716.47,Esportivo,Boleto Bancário
+962,Giovanna,F,28/01/1965,SC,luana20@example.net,+55 78 9 6602-5441,39794.91,Híbrido,Financiamento
+963,Ana Clara,F,04/02/1996,MA,joao-vitornogueira@example.org,+55 (02) 9 2406 3674,36390.75,SUV,Pix
+964,Theodoro,M,28/12/2000,CE,enzo-gabriel36@example.com,+55 (42) 9 2030-2186,25966.01,Crossover,Carteira Digital
+965,Antony,M,28/01/1960,AC,camarajoaquim@example.net,+55 (058) 96952-8076,48556.32,Elétrico,Cartão de Crédito
+966,Ana,F,01/11/1982,RR,eda-mata@example.org,+55 55 97588 7091,51584.0,Crossover,Cartão de Débito
+967,Luiz Miguel,M,25/08/1978,RR,benjamim30@example.net,+55 75 99411-3408,37535.35,Esportivo,Transferência Bancária
+968,Pedro Miguel,M,08/05/2006,TO,murilofarias@example.net,+55 (078) 95034-8599,36663.68,Sedan,Cartão de Crédito
+969,Erick,M,31/05/1945,RN,fda-cruz@example.net,+55 61 93449-3074,45925.1,Off-road,Cartão de Débito
+970,Alícia,F,27/03/1969,RS,larissa37@example.net,+55 55 94641-4846,39252.33,Sedan,Leasing
+971,Ísis,F,31/01/1963,AM,daniloabreu@example.net,+55 (086) 96345 3866,13313.49,Crossover,Leasing
+972,Agatha,F,23/04/1953,PB,franciscodas-neves@example.org,+55 (98) 9 0882-5478,25125.11,Conversível,Carteira Digital
+973,Oliver,M,13/07/1949,RR,dda-mota@example.org,+55 (18) 9 5681-3618,51923.99,Picape,Financiamento
+974,Ana Beatriz,F,06/01/1945,RR,ana-julia27@example.com,+55 (18) 9 6405-0408,53093.01,Conversível,Boleto Bancário
+975,Henry,M,28/02/1946,MG,pedro-lucas13@example.com,+55 (31) 9 8508 9813,12296.98,Conversível,Boleto Bancário
+976,Josué,M,18/02/1983,RN,sofia48@example.com,+55 73 9 4960-7083,41703.38,Compacto,Transferência Bancária
+977,Bianca,F,15/08/1967,SC,mourathales@example.com,+55 (064) 99884 2729,7666.26,Utilitário,Leasing
+978,Mariane,F,16/05/1963,MA,wpereira@example.net,+55 (069) 91831-3136,55341.47,Esportivo,Pix
+979,João,M,05/05/2001,PR,kmelo@example.com,+55 (11) 9 4996 9753,25051.85,Minivan,Pix
+980,Diogo,M,14/11/1970,MA,teixeiraana@example.org,+55 (33) 96863-3336,52445.27,Sedan,Cartão de Débito
+981,Elisa,F,16/06/1963,BA,marcos-viniciusfernandes@example.net,+55 (65) 99816 3995,26620.6,Esportivo,Dinheiro
+982,Thiago,M,19/04/1975,MT,borgesjose@example.org,+55 53 9 7990 4122,59142.1,Médio,Financiamento
+983,Diego,M,04/03/2003,DF,giovanna29@example.org,+55 (86) 9 7299 9087,16982.77,Van,Cartão de Crédito
+984,Sara,F,23/02/1981,MG,lucca50@example.com,+55 (55) 96548 4374,36229.32,Crossover,Leasing
+985,Luiza,F,20/11/1989,AP,mendoncaanna-liz@example.net,+55 74 9 4236-2583,23079.48,Utilitário,Transferência Bancária
+986,Maria Helena,F,06/03/1991,AM,fonsecayuri@example.net,+55 (62) 90999-4604,19408.53,SUV,Carteira Digital
+987,Anthony Gabriel,M,16/06/1981,GO,maria-juliaaragao@example.net,+55 33 9 9485-9239,45245.44,Conversível,Dinheiro
+988,Elisa,F,13/12/1982,AC,ana-vitoria35@example.org,+55 31 97422-1001,32094.56,Van,Carteira Digital
+989,João Gabriel,M,09/04/1954,TO,beatriz18@example.com,+55 (55) 9 3183-8897,35848.94,Hatch,Dinheiro
+990,Agatha,F,15/09/1969,RO,joao-vitorda-paz@example.net,+55 39 9 5966-9859,42145.64,Minivan,Leasing
+991,João Gabriel,M,19/02/2006,PB,emillynascimento@example.com,+55 70 9 0545-3249,35898.28,Médio,Boleto Bancário
+992,Catarina,F,05/06/1953,MT,vicentecavalcanti@example.net,+55 (063) 93078 4805,35111.55,Conversível,Leasing
+993,Marcelo,M,05/10/1989,SE,rbrito@example.net,+55 69 9 0617-7034,56320.0,SUV,Pix
+994,Maria Helena,F,12/08/2005,PI,gabrielly87@example.net,+55 54 90143 7986,10515.97,Luxo,Leasing
+995,Maria Alice,F,06/09/1950,DF,levi76@example.org,+55 (91) 9 2387 8625,18297.6,Van,Boleto Bancário
+996,Theodoro,M,01/03/1955,RN,davi97@example.net,+55 43 9 8165 4080,16633.17,Sedan,Pix
+997,Lucca,M,22/08/1962,AP,giovanna34@example.org,+55 96 92242-8152,19011.18,Picape,Pix
+998,Heitor,M,08/03/1982,TO,ysiqueira@example.net,+55 50 9 3798 6183,10365.11,Esportivo,Cartão de Débito
+999,Sophie,F,04/12/1993,GO,fariasana-vitoria@example.com,+55 56 98039 4869,51702.62,Médio,Cartão de Débito
+1000,Clara,F,06/11/1977,PB,wcavalcanti@example.org,+55 84 97377 6352,55912.24,Hatch,Carteira Digital
