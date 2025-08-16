@@ -9,10 +9,10 @@ df_carros = pd.read_csv('carros.csv')
 
 # depois trocar para puxar automaticamente do CSV
 num_clientes = 1000
-num_funcionarios = 20
+num_funcionarios = 30
 
 clientes_ids = list(range(1, num_clientes + 1))
-funcionarios_ids = list(range(1, num_clientes + 1))
+funcionarios_ids = list(range(1, num_funcionarios + 1))
 
 # Quantidade de vendas (Não pode ser maior do que o número de carros)
 num_vendas = 1000
