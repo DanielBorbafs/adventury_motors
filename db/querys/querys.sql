@@ -29,7 +29,7 @@ select marca,
  group by marca
  order by valor_vendido desc;
 
--------------------------------------------------------------------------------------
+
 
 /* Ranking de vendedores
  "Traga os 3 vendedores com maior volume de vendas (em valor) no último trimestre."
@@ -49,7 +49,7 @@ on v.vendedor_id = f.id
  order by valor_em_vendas desc
  fetch first 3 rows only;
 
-----------------------------------------------------------------------------------------
+
 
 /* Ticket médio por condição
 Qual é o ticket médio de venda de carros novos e usados?
@@ -64,7 +64,6 @@ select c.condicao,
 on v.carro_id = c.id
  group by c.condicao;
 
------------------------------------------------------------------------------------------- 
 /* Perfil dos clientes por estado (UF)
  - Quantos clientes temos por estado e qual é a média de venda por cliente
  em cada estado
@@ -81,7 +80,6 @@ on v.cliente_id = c.id
  group by c.uf
  order by ticket_uf desc;
  
-----------------------------------------------------------------------------------------------
 -- Carros que ainda não foram vendidos
 select *
   from carro c
@@ -90,7 +88,7 @@ select *
      from vendas v
     where v.carro_id = c.id
 );
------------------------------------------------------------------------------------------------
+
 -- Quantos clientes compraram mais de um carro no último ano?
 select count(distinct cliente_id)
   from vendas
@@ -100,7 +98,7 @@ select count(distinct cliente_id)
    having count(id) > 1
     group by cliente_id
 );
------------------------------------------------------------------------------------------------
+
 -- Considerando que o preco do carro é o custo de compra e valor_venda é o preço de venda, calcule o lucro médio por fornecedor.
 select c.fornecedor,
        sum(v.valor_venda) - sum(c.preco) as lucro
@@ -111,6 +109,7 @@ on v.carro_id = c.id
  order by lucro desc;
 
 
+-- Traga o lucro por venda de cada carro e o percentual lucrado
 select c.modelo,
        c.preco,
        v.valor_venda,
@@ -123,3 +122,22 @@ select c.modelo,
   from vendas v
   join carro c
 on v.carro_id = c.id;
+
+
+
+
+--  Qual nossa despesa total com pagamentos mensais
+select sum(salario)
+       || ',00 ' as salarios_funcionarios
+  from funcionario;
+
+-- Qual a projeção anual total para pagamentos de funcionários
+select sum(salario) * 12 as projecao_anual
+  from funcionario;
+
+-- qual é a média de renda de nossos clientes?
+select round(
+   avg(faixa_renda),
+   2
+) as média_salarial
+  from cliente;
