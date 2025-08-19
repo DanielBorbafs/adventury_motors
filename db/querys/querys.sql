@@ -248,3 +248,88 @@ select c.modelo,
 on v.carro_id = c.id
  group by c.modelo
  order by faturamento desc;
+
+ -- Ticket médio por forma de pagamento
+select c.forma_pagamento,
+       round(
+          sum(v.valor_venda) / count(distinct v.id),
+          2
+       ) as ticket_medio
+  from cliente c
+ inner join vendas v
+on v.cliente_id = c.id
+ group by c.forma_pagamento
+ order by ticket_medio desc;
+
+
+-- Ranking de vendedores que mais venderam
+select f.nome,
+       sum(v.valor_venda) as valor_vendido
+  from funcionario f
+  join vendas v
+on v.vendedor_id = f.id
+ group by f.nome
+ order by valor_vendido desc;
+
+
+ -- Evolução do desempenho por mës ( crescimento ou queda de vendas por vendedor) (CRIAR UMA FUNÇÃO)
+select f.nome,
+       to_char(
+          v.data_venda,
+          'MM'
+       ) as mes_num,
+       to_char(
+          v.data_venda,
+          'Month',
+          'NLS_DATE_LANGUAGE=PORTUGUESE'
+       ) as mes,
+       sum(v.valor_venda) as faturamento
+  from funcionario f
+  join vendas v
+on v.vendedor_id = f.id
+ group by f.nome,
+          to_char(
+             v.data_venda,
+             'MM'
+          ),
+          to_char(
+             v.data_venda,
+             'Month',
+             'NLS_DATE_LANGUAGE=PORTUGUESE'
+          )
+ order by f.nome,
+          mes_num;
+
+-- Distribuição salarial por cargo
+select cargo,
+       sum(salario) as salario
+  from funcionario
+ group by cargo;
+
+ -- Carros que ainda não foram vendidos
+select c.id,
+       c.marca,
+       c.modelo
+  from carro c
+ where not exists (
+   select *
+     from vendas v
+    where v.vendedor_id = c.id
+);
+
+
+-- Lucro potencial se todo o estoque for vendido.
+select sum(c.preco * 1.25) as lucro_potencial
+  from carro c
+ where not exists (
+   select *
+     from vendas v
+    where v.vendedor_id = c.id
+);
+
+-- Quantidade de carros adquiridos por foencedor.
+select count(id) as carros_adquiridos,
+       fornecedor
+  from carro
+ group by fornecedor
+ order by carros_adquiridos desc;
