@@ -141,3 +141,110 @@ select round(
    2
 ) as média_salarial
   from cliente;
+
+
+-- Lucro por faixa etária de idade
+select case
+   when trunc(months_between(
+      sysdate,
+      c.data_nascimento
+   ) / 12) between 18 and 30 then
+      'Jovem'
+   when trunc(months_between(
+      sysdate,
+      c.data_nascimento
+   ) / 12) between 31 and 59 then
+      'Adulto'
+   when trunc(months_between(
+      sysdate,
+      c.data_nascimento
+   ) / 12) >= 60             then
+      'Idoso'
+   else
+      'Menor de 18'
+       end as faixa_etaria,
+       'R$ '
+       || to_char(
+          sum(v.valor_venda),
+          '999G999G999D99'
+       ) as lucro_total
+  from cliente c
+  join vendas v
+on v.cliente_id = c.id
+ group by
+   case
+      when trunc(months_between(
+         sysdate,
+         c.data_nascimento
+      ) / 12) between 18 and 30 then
+         'Jovem'
+      when trunc(months_between(
+         sysdate,
+         c.data_nascimento
+      ) / 12) between 31 and 59 then
+         'Adulto'
+      when trunc(months_between(
+         sysdate,
+         c.data_nascimento
+      ) / 12) >= 60             then
+         'Idoso'
+      else
+         'Menor de 18'
+   end
+ order by faixa_etaria;
+
+ -- ESTADOS COM MAIOR FATURAMENTO
+select c.uf,
+       to_char(
+          sum(v.valor_venda),
+          '999G999G999D99'
+       ) as faturamento
+  from cliente c
+ inner join vendas v
+on v.cliente_id = c.id
+ group by c.uf
+ order by faturamento desc;
+
+ 
+-- Clientes cadastrados na plataforma que nunca fizeram uma compra.
+select nome,
+       email,
+       telefone
+  from cliente c
+ where not exists (
+   select *
+     from vendas v
+    where v.cliente_id = c.id
+);
+
+--- EVOLUÇÃO MENSAL
+select to_char(
+   data_venda,
+   'Month',
+   'NLS_DATE_LANGUAGE=PORTUGUESE'
+) as mes,
+       sum(valor_venda) as faturamento,
+       to_char(
+          data_venda,
+          'MM'
+       ) as num_mes
+  from vendas
+ group by to_char(
+   data_venda,
+   'Month',
+   'NLS_DATE_LANGUAGE=PORTUGUESE'
+),
+          to_char(
+             data_venda,
+             'MM'
+          )
+ order by num_mes;
+
+ -- MODELOS MAIS VENDIDO
+select c.modelo,
+       sum(v.valor_venda) as faturamento
+  from carro c
+  join vendas v
+on v.carro_id = c.id
+ group by c.modelo
+ order by faturamento desc;
