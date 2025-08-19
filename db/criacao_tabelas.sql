@@ -11,8 +11,6 @@ create table carro (
    quilometragem int
 );
 
-
-
 create table cliente (
    id              int primary key,
    nome            varchar2(20),
