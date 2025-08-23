@@ -207,8 +207,8 @@ select c.uf,
   from cliente c
  inner join vendas v
 on v.cliente_id = c.id
-group by c.uf
-order by faturamento desc;
+ group by c.uf
+ order by faturamento desc;
 
 -- Ticket médio por forma de pagamento
 select c.forma_pagamento,

@@ -88,7 +88,26 @@ def get_ticket_medio():
     conn.close()
     return{"total_clientes": total_clientes}
     
-   
+@app.get("/faturamento_mensal")
+def faturamento_mensal():
+    conn = get_connection()
+    cur = conn.cursor()
+    cur.execute("""
+        SELECT TO_CHAR(data_venda, 'Month', 'NLS_DATE_LANGUAGE=PORTUGUESE') as mes,
+               SUM(valor_venda) as faturamento,
+               TO_CHAR(data_venda, 'MM') as num_mes
+        FROM vendas
+        GROUP BY TO_CHAR(data_venda, 'Month', 'NLS_DATE_LANGUAGE=PORTUGUESE'),
+                 TO_CHAR(data_venda, 'MM')
+        ORDER BY num_mes
+    """)
+    rows = cur.fetchall()
+    cur.close()
+    conn.close()
 
+    # transformar em JSON
+    result = [{"mes": r[0].strip(), "faturamento": float(r[1])} for r in rows]
+    return result
+   
 
 
