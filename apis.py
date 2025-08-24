@@ -15,7 +15,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # libera para todos (pode restringir se quiser)
+    allow_origins=["*"],  
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -42,7 +42,6 @@ def get_total_vendas():
     cur.close()
     conn.close()
     return {"total_vendas": total}
-
 
 @app.get('/ticket_medio')
 def get_ticket_medio():
